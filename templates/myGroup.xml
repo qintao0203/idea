@@ -1,0 +1,9 @@
+<templateSet group="myGroup">
+  <template name="nvt" value="&#10;* @author qintao   (qintao@cloud-young.com)&#10;* @version V1.0 &#10;* @date $date$ $time$" description="注释" toReformat="false" toShortenFQNames="true">
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
