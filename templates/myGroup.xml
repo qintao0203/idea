@@ -6,7 +6,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="tryc" value=" try {&#10;            &#10; }catch (Exception e){&#10;            LogUtil.error(logger,e, PlatformNameEnum.DEALER,String.format(&quot;:%s&quot;,),&quot;_method_error&quot;);&#10; }" description="try catch异常捕获" toReformat="false" toShortenFQNames="true">
+  <template name="tryc" value="try {&#10;            &#10;}catch (Exception e){&#10;    LogUtil.error(logger,e, PlatformNameEnum.DEALER,String.format(&quot;:%s&quot;,),&quot;_method_error&quot;);&#10;}" description="try catch异常捕获" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="loginfo" value="LogUtil.info(logger,PlatformNameEnum.DEALER,String.format(&quot;:%&quot;,),&quot;_method_invoke&quot;,String.format(&quot;:%&quot;,));" description="info日志打印" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
