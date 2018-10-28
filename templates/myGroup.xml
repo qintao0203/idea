@@ -21,7 +21,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="publicres" value="public ResultVo&lt;&gt; (){&#10;        try {&#10;            if(){&#10;                return new ResultVo&lt;&gt;(false, .getCode(),.getMsg());&#10;            }&#10;                    &#10;        }catch (Exception e){&#10;            LogUtil.error(logger,e, PlatformNameEnum.DEALER,String.format(&quot;:%s&quot;,),&quot;_method_error&quot;);&#10;        }&#10;        return new ResultVo&lt;&gt;(false, .getCode(),.getMsg());&#10;    }" description="方法创建" toReformat="false" toShortenFQNames="true">
+  <template name="publicres" value="public ResultVo&lt;&gt; (){&#10;        try {&#10;            if(){&#10;                return new ResultVo&lt;&gt;(false, .getCode(),.getMsg());&#10;            }&#10;                    &#10;        }catch (Exception e){&#10;            LogUtil.error(logger,e, PlatformNameEnum.DEALER,String.format(&quot;:%s&quot;,),&quot;_method_error&quot;);&#10;        }&#10;        return new ResultVo&lt;&gt;(false, .getCode(),.getMsg());&#10;}" description="方法创建" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="publicmess" value="@ResponseBody&#10;@RequestMapping(value = &quot;&quot;,method={RequestMethod.POST, RequestMethod.GET})&#10; public MessageVo&lt;&gt; (){&#10;    try {&#10;        if(){&#10;            return new MessageVo&lt;&gt;(false, .getCode(),.getMsg());&#10;        }&#10;&#10;    }catch (Exception e){&#10;        LogUtil.error(logger,e, PlatformNameEnum.WX,String.format(&quot;:%s&quot;,),&quot;_method_error&quot;);&#10;    }&#10;    return new MessageVo&lt;&gt;(false, .getCode(),.getMsg());&#10;}" description="方法创建messagevo返回" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
