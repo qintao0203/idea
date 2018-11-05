@@ -36,4 +36,5 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="syserr" value="System.err.println(JSON.toJSONString());" description="错误打印" toReformat="false" toShortenFQNames="true" />
 </templateSet>
