@@ -1,1 +1,10 @@
-<keymap version="1" name="taoqin" parent="$default" />
+<keymap version="1" name="taoqin" parent="$default">
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+</keymap>
