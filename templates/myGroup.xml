@@ -37,7 +37,7 @@
     </context>
   </template>
   <template name="syserr" value="System.err.println(JSON.toJSONString());" description="错误打印" toReformat="false" toShortenFQNames="true" />
-  <template name="logerr" value="LogUtil.error(logger, e, &quot; error,:{0}&quot;, );" toReformat="false" toShortenFQNames="true">
+  <template name="logerr" value="LogUtil.error(logger, e, &quot; error,:{0}&quot;, );" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
