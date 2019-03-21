@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="xmind" type="Native" />
+      <mapping ext="vsdx" type="Native" />
       <mapping ext="pdm" type="Native" />
       <mapping ext="pdb" type="Native" />
     </extensionMap>
