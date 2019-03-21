@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="xmind" type="Native" />
       <mapping ext="pdm" type="Native" />
+      <mapping ext="pdb" type="Native" />
     </extensionMap>
   </component>
 </application>
