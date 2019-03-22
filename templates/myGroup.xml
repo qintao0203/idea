@@ -1,5 +1,5 @@
 <templateSet group="myGroup">
-  <template name="nvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by qintao   (qintao@cloud-young.com) 创建" description="注释" toReformat="false" toShortenFQNames="true">
+  <template name="nvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by 秦涛   (qintao@cloud-young.com) 创建" description="注释" toReformat="false" toShortenFQNames="true">
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
