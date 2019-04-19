@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="connectivity Check Timeout Ms" />
+      <item value="unless the health check property" />
+      <item value="Connectivity Check" />
+      <item value="The ConnectivityCheck will use the &lt;code&gt;connectionTimeout" />
+      <item value="The Connection99Percent health check will only be registered if the health check property * &lt;code&gt;expected99thPercentileMs&lt;/code&gt; is defined and greater than 0." />
+      <item value="get Logger" />
+      <item value="Access Token By Refresh Controller" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
+      </map>
+    </option>
+  </component>
+</application>
