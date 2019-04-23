@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="But the 'name' property of the queue remains as is" />
+      <item value="generated" />
+      <item value="Declare the given queue" />
       <item value="转换" />
       <item value="transfer only max. 100000 timeouts per tick to prevent a thread to stale the workerThread when it just adds new timeouts in a loop." />
       <item value="Add the timeout to the timeout queue which will be processed on the next tick.During processing all the queued HashedWheelTimeouts will be added to the correct HashedWheelBucket." />
@@ -36,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
       </map>
     </option>
   </component>
