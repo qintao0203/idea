@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Convenience extension of {@link DefaultListableBeanFactory} that reads bean definitions" />
       <item value="the primary sources to load" />
       <item value="that only matches when the specified classes are on the classpath." />
       <item value="Nested configuration if Jetty is being used." />
@@ -44,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
       </map>
     </option>
   </component>
