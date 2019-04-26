@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the primary sources to load" />
+      <item value="that only matches when the specified classes are on the classpath." />
+      <item value="Nested configuration if Jetty is being used." />
       <item value="Return whether the local bean factory contains a bean of the given name," />
       <item value="eturn whether the local bean factory contains a bean of the given name" />
       <item value="But the 'name' property of the queue remains as is" />
@@ -41,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
       </map>
     </option>
   </component>
