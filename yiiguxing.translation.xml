@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the bound (exclusive) of each random value" />
+      <item value="the origin (inclusive) of each random value" />
       <item value="Indicates the &lt;em&gt;containing annotation type&lt;/em&gt; for the * repeatable annotation type." />
       <item value="the initial seed" />
       <item value="Populate the bean instance in the given BeanWrapper with the property values * from the bean definition." />
@@ -49,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
       </map>
     </option>
   </component>
