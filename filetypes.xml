@@ -5,6 +5,7 @@
       <mapping ext="vsdx" type="Native" />
       <mapping ext="pdm" type="Native" />
       <mapping ext="pdb" type="Native" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
