@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set up event handlers to handle events from the ring buffer" />
+      <item value="Histogram for tracking the frequency of observations of values below interval upper bounds" />
+      <item value="Histogram" />
       <item value="The Brutal Truth" />
       <item value="Maxims" />
       <item value="Maxim" />
@@ -48,14 +51,11 @@
       <item value="optimized for approximated I/O timeout scheduling." />
       <item value="connectivity Check Timeout Ms" />
       <item value="unless the health check property" />
-      <item value="Connectivity Check" />
-      <item value="The ConnectivityCheck will use the &lt;code&gt;connectionTimeout" />
-      <item value="The Connection99Percent health check will only be registered if the health check property * &lt;code&gt;expected99thPercentileMs&lt;/code&gt; is defined and greater than 0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
