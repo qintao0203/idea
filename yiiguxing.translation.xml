@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="identity" />
+      <item value="and vice versa" />
+      <item value="For instance" />
+      <item value="compatible" />
+      <item value="Indicate whether this {@code MediaType} is compatible with the given media type" />
       <item value="Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments" />
       <item value="Set up event handlers to handle events from the ring buffer" />
       <item value="Histogram for tracking the frequency of observations of values below interval upper bounds" />
@@ -46,16 +51,11 @@
       <item value="INSTANCE COUNT LIMIT" />
       <item value="WARNED TOO MANY INSTANCES" />
       <item value="INSTANCE COUNTER" />
-      <item value="INSTANCE" />
-      <item value="tick" />
-      <item value="As described with 'approximated'" />
-      <item value="optimized for approximated I/O timeout scheduling." />
-      <item value="connectivity Check Timeout Ms" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
