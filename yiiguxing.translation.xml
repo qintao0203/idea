@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="retry Attempts" />
+      <item value="Attempt" />
       <item value="identity" />
       <item value="and vice versa" />
       <item value="For instance" />
@@ -49,13 +51,11 @@
       <item value="leak" />
       <item value="leak Detector" />
       <item value="INSTANCE COUNT LIMIT" />
-      <item value="WARNED TOO MANY INSTANCES" />
-      <item value="INSTANCE COUNTER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
