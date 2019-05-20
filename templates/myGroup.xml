@@ -26,7 +26,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="publicmess" value="@ResponseBody&#10;@RequestMapping(value = &quot;&quot;,method={RequestMethod.POST, RequestMethod.GET})&#10;public MessageVo&lt;&gt; (){&#10;    try {&#10;        LogUtil.info(logger,&quot;_method_invoke&quot;,String.format(&quot;:%s&quot;,));&#10;        if(Objects.isNull()){&#10;            return new MessageVo(false, .getCode(),.getMsg());&#10;        }&#10;&#10;    }catch (Exception e){&#10;        LogUtil.error(logger,e,&quot;_method_error&quot;, String.format(&quot;:%s&quot;, ));&#10;    }&#10;    return new MessageVo(false, .getCode(),.getMsg());&#10;}" description="方法创建messagevo返回" toReformat="false" toShortenFQNames="true">
+  <template name="publicmess" value="@ResponseBody&#10;@RequestMapping(value = &quot;&quot;,method={RequestMethod.POST, RequestMethod.GET})&#10;public MessageVo&lt;&gt; (){&#10;    try {&#10;        LogUtil.info(logger,&quot;_method_invoke&quot;,String.format(&quot;:%s&quot;,));&#10;        if(Objects.isNull()){&#10;            return new MessageVo(false, .getCode(),.getMsg());&#10;        }&#10;&#10;    }catch (Exception e){&#10;        LogUtil.error(logger,e,&quot;_method_error&quot;, String.format(&quot;:%s&quot;, ));&#10;    }&#10;    return new MessageVo&lt;&gt;(false, .getCode(),.getMsg());&#10;}" description="方法创建messagevo返回" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
