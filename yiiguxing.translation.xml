@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="conclude" />
+      <item value="conclude Count" />
       <item value="declarations" />
       <item value="interrupt" />
       <item value="Tests whether the current thread has been interrupted. The * &lt;i&gt;interrupted status&lt;/i&gt; of the thread is cleared by this method. In * other words, if this method were to be called twice in succession, the * second call would return false (unless the current thread were * interrupted again, after the first call had cleared its interrupted * status and before the second call had examined it)." />
@@ -49,13 +51,11 @@
       <item value="Duration" />
       <item value="Tracker" />
       <item value="Resource Leak Tracker" />
-      <item value="STATE" />
-      <item value="WORKER STATE UPDATER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
