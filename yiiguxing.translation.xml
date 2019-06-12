@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component." />
       <item value="the parallelism level. For default value" />
       <item value="if a {@link AttributeKey} for the given {@code name} exists." />
       <item value="Creates a new {@link AttributeKey} for the given {@code name} or fail with an * {@link IllegalArgumentException} if a {@link AttributeKey} for the given {@code name} exists." />
@@ -50,12 +51,11 @@
       <item value="Normalize ticksPerWheel to power of two and initialize the wheel" />
       <item value="max Pending Timeouts" />
       <item value="The maximum number of pending timeouts after which call to {@code newTimeout} will result in {@link java.util.concurrent.RejectedExecutionException} being thrown" />
-      <item value="the time unit of the" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
