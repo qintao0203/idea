@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A rule that skips servers with &quot;tripped&quot; circuit breaker and picks the * server with lowest concurrent requests. * &lt;p&gt; * This rule should typically work with {@link ServerListSubsetFilter} which puts a limit on the * servers that is visible to the rule. This ensure that it only needs to find the minimal * concurrent requests among a small number of servers. Also, each client will get a random list of * servers which avoids the problem that one server with the lowest concurrent requests is * chosen by a large number of clients and immediately gets overwhelmed. *" />
+      <item value="RCN REDUNDANT NULLCHECK OF NULL VALUE" />
       <item value="then Compose" />
       <item value="then Combine" />
       <item value="Praise" />
@@ -49,13 +51,11 @@
       <item value="转换" />
       <item value="transfer only max. 100000 timeouts per tick to prevent a thread to stale the workerThread when it just adds new timeouts in a loop." />
       <item value="Add the timeout to the timeout queue which will be processed on the next tick.During processing all the queued HashedWheelTimeouts will be added to the correct HashedWheelBucket." />
-      <item value="unprocessed Timeouts" />
-      <item value="overflow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="78" />
-        <entry key="ENGLISH" value="79" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
