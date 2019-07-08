@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets the URL of the target Web Service." />
+      <item value="ets the URL of the target Web Service." />
+      <item value="Not part of JAX-RPC specification." />
+      <item value="Axis' JAXRPC Dynamic Invocation Interface implementation of the Call * interface. This class should be used to actually invoke the Web Service. * It can be prefilled by a WSDL document (on the constructor to the Service * object) or you can fill in the data yourself." />
       <item value="Adds the specified parameter to the list of parameters for the * operation associated with this Call object." />
       <item value="A rule that skips servers with &quot;tripped&quot; circuit breaker and picks the * server with lowest concurrent requests. * &lt;p&gt; * This rule should typically work with {@link ServerListSubsetFilter} which puts a limit on the * servers that is visible to the rule. This ensure that it only needs to find the minimal * concurrent requests among a small number of servers. Also, each client will get a random list of * servers which avoids the problem that one server with the lowest concurrent requests is * chosen by a large number of clients and immediately gets overwhelmed. *" />
       <item value="RCN REDUNDANT NULLCHECK OF NULL VALUE" />
@@ -47,15 +51,11 @@
       <item value="Return whether the local bean factory contains a bean of the given name," />
       <item value="eturn whether the local bean factory contains a bean of the given name" />
       <item value="But the 'name' property of the queue remains as is" />
-      <item value="generated" />
-      <item value="Declare the given queue" />
-      <item value="转换" />
-      <item value="transfer only max. 100000 timeouts per tick to prevent a thread to stale the workerThread when it just adds new timeouts in a loop." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
