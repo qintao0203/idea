@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="add Goods" />
       <item value="Returns rank of value, with the scores ordered from high to low." />
       <item value="Field name of map entries that are used as key for the element in the implicit map." />
       <item value="Sets the URL of the target Web Service." />
@@ -50,12 +51,11 @@
       <item value="the primary sources to load" />
       <item value="that only matches when the specified classes are on the classpath." />
       <item value="Nested configuration if Jetty is being used." />
-      <item value="Return whether the local bean factory contains a bean of the given name," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
