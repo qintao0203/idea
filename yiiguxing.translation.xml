@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Looks at the object at the top of this stack without removing it * from the stack." />
+      <item value="Weak" />
       <item value="Checks and updates status for a node that failed to acquire. * Returns true if thread should block. This is the main signal * control in all acquire loops. Requires that pred == node.prev." />
       <item value="he wait queue is a variant of a &quot;CLH&quot; (Craig, Landin, and * Hagersten) lock queue. CLH locks are normally used for * spinlocks. We instead use them for blocking synchronizers, but * use the same basic tactic of holding some of the control * information about a thread in the predecessor of its node. A * &quot;status&quot; field in each node keeps track of whether a thread * should block. A node is signalled when its predecessor * releases. Each node of the queue otherwise serves as a * specific-notification-style monitor holding a single waiting * thread. The status field does NOT control whether threads are * granted locks etc though. A thread may try to acquire if it is * first in the queue. But being first does not guarantee success; * it only gives the right to contend. So the currently released * contender thread may need to rewait." />
       <item value="add Goods" />
@@ -49,13 +51,11 @@
       <item value="the initial seed" />
       <item value="Populate the bean instance in the given BeanWrapper with the property values * from the bean definition." />
       <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
-      <item value="Convenience extension of {@link DefaultListableBeanFactory} that reads bean definitions" />
-      <item value="the primary sources to load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="94" />
+        <entry key="ENGLISH" value="95" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
