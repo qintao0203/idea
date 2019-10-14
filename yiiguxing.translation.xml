@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lost race vs opposite mode" />
       <item value="Looks at the object at the top of this stack without removing it * from the stack." />
       <item value="Weak" />
       <item value="Checks and updates status for a node that failed to acquire. * Returns true if thread should block. This is the main signal * control in all acquire loops. Requires that pred == node.prev." />
@@ -50,12 +51,11 @@
       <item value="Indicates the &lt;em&gt;containing annotation type&lt;/em&gt; for the * repeatable annotation type." />
       <item value="the initial seed" />
       <item value="Populate the bean instance in the given BeanWrapper with the property values * from the bean definition." />
-      <item value="Give BeanPostProcessors a chance to return a proxy instead of the target bean instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
