@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FOUR" />
+      <item value="THREE" />
       <item value="A visitor of files. An implementation of this interface is provided to the * {@link Files#walkFileTree Files.walkFileTree} methods to visit each file in * a file tree." />
       <item value="Make invocation available if necessary." />
       <item value="The functionality in this class might be used by a target object that needed access * to resources on the invocation. However, this approach should not be used when there is * a reasonable alternative, as it makes application code dependent on usage under AOP and * the Spring AOP framework in particular." />
@@ -49,13 +51,11 @@
       <item value="compatible" />
       <item value="Indicate whether this {@code MediaType} is compatible with the given media type" />
       <item value="Ambiguous constructor argument types - did you specify the correct bean references as constructor arguments" />
-      <item value="Set up event handlers to handle events from the ring buffer" />
-      <item value="Histogram for tracking the frequency of observations of values below interval upper bounds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
