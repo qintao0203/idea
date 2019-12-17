@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="initiative" />
       <item value="DUPLICATE" />
       <item value="Survivor" />
       <item value="preserve" />
@@ -50,12 +51,11 @@
       <item value="conclude" />
       <item value="conclude Count" />
       <item value="declarations" />
-      <item value="interrupt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
