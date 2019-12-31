@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Persistent" />
+      <item value="ephemeral" />
       <item value="create Ephemeral" />
       <item value="Sending a registration request to the server side" />
       <item value="unmodifiable" />
@@ -49,13 +51,11 @@
       <item value="mutual" />
       <item value="terminated" />
       <item value="DESTROYED" />
-      <item value="lost race vs opposite mode" />
-      <item value="Looks at the object at the top of this stack without removing it * from the stack." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
