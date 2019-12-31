@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unmodifiable" />
+      <item value="extensions" />
+      <item value="Connecting the registry needs to support the contract: 1. When the check=false is set, the connection is not checked, otherwise the exception is thrown when disconnection 2. Support username:password authority authentication on URL. 3. Support the backup=10.20.153.10 candidate registry cluster address. 4. Support file=registry.cache local disk file cache. 5. Support the timeout=1000 request timeout setting. 6. Support session=60000 session timeout or expiration settings." />
+      <item value="Query the registered data that matches the conditions. Corresponding to the push mode of the subscription, this is the pull mode and returns only one result." />
+      <item value="2. Unregister according to the full url match." />
+      <item value="1. If it is the persistent stored data of dynamic=false, the registration data can not be found, then the IllegalStateException is thrown, otherwise it is ignored." />
+      <item value="persistently" />
+      <item value="Registering is required to support the contract: 1. When the URL sets the check=false parameter. When the registration fails, the exception is not thrown and retried in the background. Otherwise, the exception will be thrown. 2. When URL sets the dynamic=false parameter, it needs to be stored persistently, otherwise, it should be deleted automatically when the registrant has an abnormal exit. 3. When the URL sets category=routers, it means classified storage, the default category is providers, and the data can be notified by the classified section. 4. When the registry is restarted, network jitter, data can not be lost, including automatically deleting data from the broken line. 5. Allow URLs which have the same URL but different parameters to coexist,they can't cover each other." />
+      <item value="Registering is required to support the contract:&lt;br&gt; 1. When the URL sets the check=false parameter. When the registration fails, the exception is not thrown and retried in the background. Otherwise, the exception will be thrown.&lt;br&gt; 2. When URL sets the dynamic=false parameter, it needs to be stored persistently, otherwise, it should be deleted automatically when the registrant has an abnormal exit.&lt;br&gt; 3. When the URL sets category=routers, it means classified storage, the default category is providers, and the data can be notified by the classified section. &lt;br&gt; 4. When the registry is restarted, network jitter, data can not be lost, including automatically deleting data from the broken line.&lt;br&gt; 5. Allow URLs which have the same URL but different parameters to coexist,they can't cover each other." />
       <item value="The order of notifications to be guaranteed by the notifications(That is, the implementation of the registry). Such as: single thread push, queue serialization, and version comparison." />
       <item value="If a data type is empty, need to notify a empty protocol with category parameter identification of url data." />
       <item value="t the time of change, different types of data are allowed to be notified separately, e.g.: providers, consumers, routers, overrides. It allows only one of these types to be notified, but the data of this type must be full, not incremental." />
@@ -42,20 +51,11 @@
       <item value="Looks at the object at the top of this stack without removing it * from the stack." />
       <item value="Weak" />
       <item value="Checks and updates status for a node that failed to acquire. * Returns true if thread should block. This is the main signal * control in all acquire loops. Requires that pred == node.prev." />
-      <item value="he wait queue is a variant of a &quot;CLH&quot; (Craig, Landin, and * Hagersten) lock queue. CLH locks are normally used for * spinlocks. We instead use them for blocking synchronizers, but * use the same basic tactic of holding some of the control * information about a thread in the predecessor of its node. A * &quot;status&quot; field in each node keeps track of whether a thread * should block. A node is signalled when its predecessor * releases. Each node of the queue otherwise serves as a * specific-notification-style monitor holding a single waiting * thread. The status field does NOT control whether threads are * granted locks etc though. A thread may try to acquire if it is * first in the queue. But being first does not guarantee success; * it only gives the right to contend. So the currently released * contender thread may need to rewait." />
-      <item value="add Goods" />
-      <item value="Returns rank of value, with the scores ordered from high to low." />
-      <item value="Field name of map entries that are used as key for the element in the implicit map." />
-      <item value="Sets the URL of the target Web Service." />
-      <item value="ets the URL of the target Web Service." />
-      <item value="Not part of JAX-RPC specification." />
-      <item value="Axis' JAXRPC Dynamic Invocation Interface implementation of the Call * interface. This class should be used to actually invoke the Web Service. * It can be prefilled by a WSDL document (on the constructor to the Service * object) or you can fill in the data yourself." />
-      <item value="Adds the specified parameter to the list of parameters for the * operation associated with this Call object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="137" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
