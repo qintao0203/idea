@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The order of notifications to be guaranteed by the notifications(That is, the implementation of the registry). Such as: single thread push, queue serialization, and version comparison." />
+      <item value="If a data type is empty, need to notify a empty protocol with category parameter identification of url data." />
+      <item value="t the time of change, different types of data are allowed to be notified separately, e.g.: providers, consumers, routers, overrides. It allows only one of these types to be notified, but the data of this type must be full, not incremental." />
+      <item value="The first notification at a subscription must be a full notification of all types of data of a service." />
+      <item value="Always notifications on the service interface and the dimension of the data type. that is, won't notify part of the same type data belonging to one service. Users do not need to compare the results of the previous notification." />
+      <item value="contract" />
+      <item value="Notify needs to support the contract" />
+      <item value="support" />
+      <item value="Triggered when a service change notification is received." />
+      <item value="Reconnection period in milliseconds for register center" />
+      <item value="To decide whether register center saves file synchronously, the default value is asynchronously" />
+      <item value="processing when receiving the address list" />
+      <item value="processing" />
+      <item value="receiving" />
       <item value="initiative" />
       <item value="DUPLICATE" />
       <item value="Survivor" />
@@ -37,25 +51,11 @@
       <item value="Not part of JAX-RPC specification." />
       <item value="Axis' JAXRPC Dynamic Invocation Interface implementation of the Call * interface. This class should be used to actually invoke the Web Service. * It can be prefilled by a WSDL document (on the constructor to the Service * object) or you can fill in the data yourself." />
       <item value="Adds the specified parameter to the list of parameters for the * operation associated with this Call object." />
-      <item value="A rule that skips servers with &quot;tripped&quot; circuit breaker and picks the * server with lowest concurrent requests. * &lt;p&gt; * This rule should typically work with {@link ServerListSubsetFilter} which puts a limit on the * servers that is visible to the rule. This ensure that it only needs to find the minimal * concurrent requests among a small number of servers. Also, each client will get a random list of * servers which avoids the problem that one server with the lowest concurrent requests is * chosen by a large number of clients and immediately gets overwhelmed. *" />
-      <item value="RCN REDUNDANT NULLCHECK OF NULL VALUE" />
-      <item value="then Compose" />
-      <item value="then Combine" />
-      <item value="Praise" />
-      <item value="The value may indicate a suggestion for a logical component name, * to be turned into a Spring bean in case of an autodetected component." />
-      <item value="the parallelism level. For default value" />
-      <item value="if a {@link AttributeKey} for the given {@code name} exists." />
-      <item value="Creates a new {@link AttributeKey} for the given {@code name} or fail with an * {@link IllegalArgumentException} if a {@link AttributeKey} for the given {@code name} exists." />
-      <item value="Be aware that it is not be * possible to have multiple keys with the same name." />
-      <item value="Key which can be used to access {@link Attribute} out of the {@link AttributeMap}. Be aware that it is not be * possible to have multiple keys with the same name." />
-      <item value="conclude" />
-      <item value="conclude Count" />
-      <item value="declarations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
