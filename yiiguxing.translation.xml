@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lifecycle" />
+      <item value="Registry Directory" />
+      <item value="construction" />
+      <item value="integration" />
+      <item value="retry Period" />
       <item value="ticks Per Wheel" />
       <item value="idle" />
       <item value="The Key is watched Zookeeper path, the value is an instance of" />
@@ -46,16 +51,11 @@
       <item value="NESTED" />
       <item value="behaviors" />
       <item value="propagation" />
-      <item value="FOUR" />
-      <item value="THREE" />
-      <item value="A visitor of files. An implementation of this interface is provided to the * {@link Files#walkFileTree Files.walkFileTree} methods to visit each file in * a file tree." />
-      <item value="Make invocation available if necessary." />
-      <item value="The functionality in this class might be used by a target object that needed access * to resources on the invocation. However, this approach should not be used when there is * a reasonable alternative, as it makes application code dependent on usage under AOP and * the Spring AOP framework in particular." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
