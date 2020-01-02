@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The Key is watched Zookeeper path, the value is an instance of" />
+      <item value="Discovery" />
+      <item value="Represents the default payload of a registered service in Zookeeper." />
+      <item value="re-register watcher is only a side effect and is not mandate." />
+      <item value="When zookeeper connection recovered from a connection loss, it need to fetch the latest provider list." />
       <item value="If the startup detection is opened, the Exception is thrown directly." />
       <item value="create Persistent" />
       <item value="ephemeral" />
@@ -46,16 +51,11 @@
       <item value="The functionality in this class might be used by a target object that needed access * to resources on the invocation. However, this approach should not be used when there is * a reasonable alternative, as it makes application code dependent on usage under AOP and * the Spring AOP framework in particular." />
       <item value="Spring's AOP framework does not expose proxies by default, as there is a performance cost * in doing so." />
       <item value="The {@code currentProxy()} method is usable if the AOP framework is configured to * expose the current proxy (not the default). It returns the AOP proxy in use. Target objects * or advice can use this to make advised calls, in the same way as {@code getEJBObject()} * can be used in EJBs. They can also use it to find advice configuration" />
-      <item value="Class containing static methods used to obtain information about the current AOP invocation." />
-      <item value="When the number of * entries in the hash table exceeds the product of the load factor and the * current capacity" />
-      <item value="a measure of how full the hash table is allowed to * get before its capacity is automatically increased" />
-      <item value="mutual" />
-      <item value="terminated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
