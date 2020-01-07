@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No interface expected here" />
       <item value="Lifecycle" />
       <item value="Registry Directory" />
       <item value="construction" />
@@ -50,12 +51,11 @@
       <item value="xecute non-transactionally, suspend the current transaction if one exists. * Analogous to EJB transaction attribute of the same name. * &lt;p&gt;&lt;b&gt;NOTE:&lt;/b&gt; Actual transaction suspension will not work out-of-the-box * on all transaction managers. This in particular applies to * {@link org.springframework.transaction.jta.JtaTransactionManager}, * which requires the {@code javax.transaction.TransactionManager} to be * made available it to it (which is server-specific in standard Java EE). * @see org.springframework.transaction.jta.JtaTransactionManager#setTransactionManager" />
       <item value="NESTED" />
       <item value="behaviors" />
-      <item value="propagation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="163" />
+        <entry key="ENGLISH" value="164" />
         <entry key="ROMANIAN" value="1" />
       </map>
     </option>
