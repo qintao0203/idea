@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loan" />
+      <item value="Loand" />
       <item value="square" />
       <item value="sqrt" />
       <item value="cbrt" />
@@ -49,13 +51,11 @@
       <item value="processing" />
       <item value="receiving" />
       <item value="initiative" />
-      <item value="DUPLICATE" />
-      <item value="Survivor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="167" />
-        <entry key="ENGLISH" value="168" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
