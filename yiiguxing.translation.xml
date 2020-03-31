@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bookmark" />
+      <item value="Attachment" />
       <item value="Render" />
       <item value="Enterprise" />
       <item value="Professional" />
@@ -49,13 +51,11 @@
       <item value="Always notifications on the service interface and the dimension of the data type. that is, won't notify part of the same type data belonging to one service. Users do not need to compare the results of the previous notification." />
       <item value="contract" />
       <item value="Notify needs to support the contract" />
-      <item value="support" />
-      <item value="Triggered when a service change notification is received." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
