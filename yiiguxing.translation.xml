@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Enterprise" />
+      <item value="Professional" />
+      <item value="Source code recreated from a .class file by IntelliJ IDEA" />
       <item value="large" />
       <item value="present" />
       <item value="Loan" />
@@ -48,14 +51,11 @@
       <item value="support" />
       <item value="Triggered when a service change notification is received." />
       <item value="Reconnection period in milliseconds for register center" />
-      <item value="To decide whether register center saves file synchronously, the default value is asynchronously" />
-      <item value="processing when receiving the address list" />
-      <item value="processing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
