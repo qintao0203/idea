@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fills the input buffer, taking the mark into account if it is valid." />
       <item value="Atomically increments the current value by one." />
       <item value="delta" />
       <item value="coordinates" />
@@ -50,12 +51,11 @@
       <item value="Registering is required to support the contract: 1. When the URL sets the check=false parameter. When the registration fails, the exception is not thrown and retried in the background. Otherwise, the exception will be thrown. 2. When URL sets the dynamic=false parameter, it needs to be stored persistently, otherwise, it should be deleted automatically when the registrant has an abnormal exit. 3. When the URL sets category=routers, it means classified storage, the default category is providers, and the data can be notified by the classified section. 4. When the registry is restarted, network jitter, data can not be lost, including automatically deleting data from the broken line. 5. Allow URLs which have the same URL but different parameters to coexist,they can't cover each other." />
       <item value="Registering is required to support the contract:&lt;br&gt; 1. When the URL sets the check=false parameter. When the registration fails, the exception is not thrown and retried in the background. Otherwise, the exception will be thrown.&lt;br&gt; 2. When URL sets the dynamic=false parameter, it needs to be stored persistently, otherwise, it should be deleted automatically when the registrant has an abnormal exit.&lt;br&gt; 3. When the URL sets category=routers, it means classified storage, the default category is providers, and the data can be notified by the classified section. &lt;br&gt; 4. When the registry is restarted, network jitter, data can not be lost, including automatically deleting data from the broken line.&lt;br&gt; 5. Allow URLs which have the same URL but different parameters to coexist,they can't cover each other." />
       <item value="The order of notifications to be guaranteed by the notifications(That is, the implementation of the registry). Such as: single thread push, queue serialization, and version comparison." />
-      <item value="If a data type is empty, need to notify a empty protocol with category parameter identification of url data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="182" />
+        <entry key="ENGLISH" value="183" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
