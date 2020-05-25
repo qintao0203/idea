@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="FEET" />
+      <item value="MILES" />
+      <item value="radius" />
+      <item value="radius in geo units" />
       <item value="ensure Capacity Internal" />
       <item value="Return the headers of this message." />
       <item value="a corresponding HttpHeaders object" />
@@ -47,15 +51,11 @@
       <item value="unmodifiable" />
       <item value="extensions" />
       <item value="Connecting the registry needs to support the contract: 1. When the check=false is set, the connection is not checked, otherwise the exception is thrown when disconnection 2. Support username:password authority authentication on URL. 3. Support the backup=10.20.153.10 candidate registry cluster address. 4. Support file=registry.cache local disk file cache. 5. Support the timeout=1000 request timeout setting. 6. Support session=60000 session timeout or expiration settings." />
-      <item value="Query the registered data that matches the conditions. Corresponding to the push mode of the subscription, this is the pull mode and returns only one result." />
-      <item value="2. Unregister according to the full url match." />
-      <item value="1. If it is the persistent stored data of dynamic=false, the registration data can not be found, then the IllegalStateException is thrown, otherwise it is ignored." />
-      <item value="persistently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
