@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You can't write against a read only slave" />
       <item value="FEET" />
       <item value="MILES" />
       <item value="radius" />
@@ -50,12 +51,11 @@
       <item value="Sending a registration request to the server side" />
       <item value="unmodifiable" />
       <item value="extensions" />
-      <item value="Connecting the registry needs to support the contract: 1. When the check=false is set, the connection is not checked, otherwise the exception is thrown when disconnection 2. Support username:password authority authentication on URL. 3. Support the backup=10.20.153.10 candidate registry cluster address. 4. Support file=registry.cache local disk file cache. 5. Support the timeout=1000 request timeout setting. 6. Support session=60000 session timeout or expiration settings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="190" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
