@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="exists" />
       <item value="verif" />
       <item value="验证" />
@@ -50,12 +51,11 @@
       <item value="ticks Per Wheel" />
       <item value="idle" />
       <item value="The Key is watched Zookeeper path, the value is an instance of" />
-      <item value="Discovery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
