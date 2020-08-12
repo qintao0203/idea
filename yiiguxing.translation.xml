@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="丢弃" />
+      <item value="thow" />
       <item value="milliseconds" />
       <item value="Remaining time to live of Redisson object that has a timeout" />
       <item value="Unchecked call to 'set(String, V)' as a member of raw type 'com.llb.cloudyoung.tool.redis.RedissonTemplete'" />
@@ -49,13 +51,11 @@
       <item value="No interface expected here" />
       <item value="Lifecycle" />
       <item value="Registry Directory" />
-      <item value="construction" />
-      <item value="integration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="206" />
+        <entry key="ENGLISH" value="206" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
