@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assigned" />
       <item value="丢弃" />
       <item value="thow" />
       <item value="milliseconds" />
@@ -50,12 +51,11 @@
       <item value="floor" />
       <item value="No interface expected here" />
       <item value="Lifecycle" />
-      <item value="Registry Directory" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
