@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Evaluate" />
       <item value="Click" />
       <item value="推广" />
       <item value="Exclude" />
@@ -50,12 +51,11 @@
       <item value="Enterprise" />
       <item value="Professional" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA" />
-      <item value="large" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
