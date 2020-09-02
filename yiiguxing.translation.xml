@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Find the extension with the given name. If the specified name is not found," />
       <item value="the extension names that need to be excluded." />
       <item value="the extension names that need to be wrapped." />
       <item value="The annotated class will only work as a wrapper when the condition matches." />
@@ -50,12 +51,11 @@
       <item value="a corresponding HttpHeaders object" />
       <item value="Fills the input buffer, taking the mark into account if it is valid." />
       <item value="Atomically increments the current value by one." />
-      <item value="delta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="225" />
+        <entry key="CHINESE" value="225" />
+        <entry key="ENGLISH" value="226" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
