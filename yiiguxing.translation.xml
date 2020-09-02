@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the extension names that need to be excluded." />
       <item value="the extension names that need to be wrapped." />
       <item value="The annotated class will only work as a wrapper when the condition matches." />
       <item value="If there's third party library referenced by static field or by method in extension implementation, its class will * fail to initialize if the third party library doesn't exist" />
@@ -50,7 +51,6 @@
       <item value="Fills the input buffer, taking the mark into account if it is valid." />
       <item value="Atomically increments the current value by one." />
       <item value="delta" />
-      <item value="coordinates" />
     </histories>
     <option name="languageScores">
       <map>
