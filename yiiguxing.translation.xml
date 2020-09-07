@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expiration" />
+      <item value="A mix-in style interface for marking objects that should be * acted upon after a given delay." />
+      <item value="Returns the remaining delay associated with this object, in the * given time unit." />
       <item value="whether or not any tasks were executed" />
       <item value="Advance" />
       <item value="Advance the internal clock" />
@@ -48,14 +51,11 @@
       <item value="Exclude" />
       <item value="Client" />
       <item value="Intersection sets specified by name with current set" />
-      <item value="Diff sets specified by name with current set." />
-      <item value="Diff sets specified by name and write to current set." />
-      <item value="Union sets specified by name and write to current set." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="257" />
+        <entry key="CHINESE" value="260" />
+        <entry key="ENGLISH" value="261" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
