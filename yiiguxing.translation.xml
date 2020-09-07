@@ -1,6 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether or not any tasks were executed" />
+      <item value="Advance" />
+      <item value="Advance the internal clock" />
+      <item value="// Remove the timer task entry if it is already in any other list // We do this outside of the sync block below to avoid deadlocking. // We may retry until timerTaskEntry.list becomes null." />
+      <item value="// Set the bucket's expiration time // Returns true if the expiration time is changed" />
+      <item value="TimerTaskList forms a doubly linked cyclic list using a dummy root entry root.next points to the head root.prev points to the tail" />
+      <item value="we will remove such an entry first." />
+      <item value="if this timerTask is already held by an existing timer task entry," />
+      <item value="Advances the clock if there is an expired bucket. If there isn't any expired bucket when called, waits up to timeoutMs before giving up." />
+      <item value="Locks used to protect data structures while ticking" />
+      <item value="Shutdown the timer service, leaving pending tasks unexecuted" />
+      <item value="Get the number of tasks pending execution" />
+      <item value="Advance the internal clock, executing any tasks whose expiration has been reached within the duration of the passed timeout." />
+      <item value="Add a new task to this executor. It will be executed after the task's delay (beginning from the time of submission)" />
+      <item value="This class is not thread-safe. There should not be any add calls while advanceClock is executing. It is caller's responsibility to enforce it. Simultaneous add calls are thread-safe." />
+      <item value="The hierarchical timing wheels works especially well when operations are completed before they time out. Even when everything times out, it still has advantageous when there are many items in the timer. Its insert cost (including reinsert) and delete cost are O(m) and O(1), respectively while priority queue based timers takes O(log N) for both insert and delete where N is the number of items in the queue." />
+      <item value="At time = c+3, [c+2,c+2] is newly expired. Level 2 moves to c+3, and [c+5,c+5] and [c+9,c+11] are created. Level 3 stay at c." />
+      <item value="At time = c+2, [c+1,c+1] is newly expired. Level 1 moves to c+2, and [c+4,c+4] is created," />
+      <item value="Note that bucket [c,c+2] in level 2 won't receive any task since that range is already covered in level 1. The same is true for the bucket [c,c+8] in level 3 since its range is covered in level 2. This is a bit wasteful, but simplifies the implementation." />
+      <item value="The bucket expiration is at the time of bucket beginning. So at time = c+1, buckets [c,c], [c,c+2] and [c,c+8] are expired. Level 1's clock moves to c+1, and [c+3,c+3] is created. Level 2 and level3's clock stay at c since their clocks move in unit of 3 and 9, respectively. So, no new buckets are created in level 2 and 3." />
+      <item value="Example Let's say that u is 1 and n is 3. If the start time is c, then the buckets at different levels are:" />
+      <item value="Let's say that u is 1 and n is 3. If the start time is c," />
+      <item value="A major drawback of a simple timing wheel is that it assumes that a timer request is within the time interval of n * u from the current time. If a timer request is out of this interval, it is an overflow. A hierarchical timing wheel deals with such overflows. It is a hierarchically organized timing wheels. The lowest level has the finest time resolution. As moving up the hierarchy, time resolutions become coarser. If the resolution of a wheel at one level is u and the size is n, the resolution of the next level should be n * u. At each level overflows are delegated to the wheel in one level higher. When the wheel in the higher level ticks, it reinsert timer tasks to the lower level. An overflow wheel can be created on-demand. When a bucket in an overflow bucket expires, all tasks in it are reinserted into the timer recursively. The tasks are then moved to the finer grain wheels or be executed. The insert (start-timer) cost is O(m) where m is the number of wheels, which is usually very small compared to the number of requests in the system, and the delete (stop-timer) cost is still O(1)." />
+      <item value="A simple timing wheel is a circular list of buckets of timer tasks. Let u be the time unit. A timing wheel with size n has n buckets and can hold timer tasks in n * u time interval. Each bucket holds timer tasks that fall into the corresponding time range. At the beginning, the first bucket holds tasks for [0, u), the second bucket holds tasks for [u, 2u), …, the n-th bucket for [u * (n -1), u * n). Every interval of time unit u, the timer ticks and moved to the next bucket then expire all timer tasks in it. So, the timer never insert a task into the bucket for the current time since it is already expired. The timer immediately runs the expired task. The emptied bucket is then available for the next round, so if the current bucket is for the time t, it becomes the bucket for [t + u * n, t + (n + 1) * u) after a tick. A timing wheel has O(1) cost for insert/delete (start-timer/stop-timer) whereas priority queue based timers, such as java.util.concurrent.DelayQueue and java.util.Timer, have O(log n) insert/delete cost." />
+      <item value="A timing wheel with size n has n buckets and can hold timer tasks in n * u time interval. * Each bucket holds timer tasks that fall into the corresponding time range. At the beginning, * the first bucket holds tasks for [0, u), the second bucket holds tasks for [u, 2u), …, * the n-th bucket for [u * (n -1), u * n). Every interval of time unit u, the timer ticks and * moved to the next bucket then expire all timer tasks in it. So, the timer never insert a task * into the bucket for the current time since it is already expired. The timer immediately runs * the expired task. The emptied bucket is then available for the next round, so if the current * bucket is for the time t, it becomes the bucket for [t + u * n, t + (n + 1) * u) after a tick. * A timing wheel has O(1) cost for insert/delete (start-timer/stop-timer) whereas priority queue * based timers, such as java.util.concurrent.DelayQueue and java.util.Timer, have O(log n) * insert/delete cost." />
+      <item value="A simple timing wheel is a circular list of buckets of timer tasks. Let u be the time unit." />
+      <item value="Hierarchical Timing Wheels" />
+      <item value="Advance the internal clock, executing any tasks whose expiration has been * reached within the duration of the passed timeout." />
       <item value="exclud User Ban Operation" />
       <item value="Throwable" />
       <item value="if the key exists but has no associated expire." />
@@ -23,39 +51,11 @@
       <item value="Diff sets specified by name with current set." />
       <item value="Diff sets specified by name and write to current set." />
       <item value="Union sets specified by name and write to current set." />
-      <item value="Generating equals/hashCode implementation but without a call to superclass, even though this class does not extend java.lang.Object. If this is intentional, add '(callSuper=false)' to your type." />
-      <item value="详情" />
-      <item value="deatial" />
-      <item value="assigned" />
-      <item value="丢弃" />
-      <item value="thow" />
-      <item value="milliseconds" />
-      <item value="Remaining time to live of Redisson object that has a timeout" />
-      <item value="Unchecked call to 'set(String, V)' as a member of raw type 'com.llb.cloudyoung.tool.redis.RedissonTemplete'" />
-      <item value="is Our Self" />
-      <item value="Advisor Chat Statistics Param" />
-      <item value="exists" />
-      <item value="verif" />
-      <item value="验证" />
-      <item value="Signature" />
-      <item value="sign" />
-      <item value="opeartor" />
-      <item value="Reward" />
-      <item value="Revenue" />
-      <item value="exclude" />
-      <item value="interruptibly" />
-      <item value="You can't write against a read only slave" />
-      <item value="FEET" />
-      <item value="MILES" />
-      <item value="radius" />
-      <item value="radius in geo units" />
-      <item value="ensure Capacity Internal" />
-      <item value="Return the headers of this message." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="228" />
-        <entry key="ENGLISH" value="229" />
+        <entry key="CHINESE" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
