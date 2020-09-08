@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Try to advance the clock" />
+      <item value="Inserts the specified element into this delay queue." />
+      <item value="enqueued" />
+      <item value="Put in its own bucket" />
+      <item value="tick" />
+      <item value="The function computing element values" />
+      <item value="The number of elements in the array" />
+      <item value="Returns an array containing values of a given function over a range of integer * values starting from 0." />
       <item value="interval" />
       <item value="expiration" />
       <item value="A mix-in style interface for marking objects that should be * acted upon after a given delay." />
@@ -43,19 +51,11 @@
       <item value="If there's third party library referenced by static field or by method in extension implementation, its class will * fail to initialize if the third party library doesn't exist" />
       <item value="party" />
       <item value="Marker" />
-      <item value="extension" />
-      <item value="duplicate" />
-      <item value="Resolver" />
-      <item value="Evaluate" />
-      <item value="Click" />
-      <item value="推广" />
-      <item value="Exclude" />
-      <item value="Client" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
