@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases:" />
       <item value="Try to advance the clock" />
       <item value="Inserts the specified element into this delay queue." />
       <item value="enqueued" />
@@ -50,12 +51,11 @@
       <item value="The annotated class will only work as a wrapper when the condition matches." />
       <item value="If there's third party library referenced by static field or by method in extension implementation, its class will * fail to initialize if the third party library doesn't exist" />
       <item value="party" />
-      <item value="Marker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="269" />
-        <entry key="ENGLISH" value="270" />
+        <entry key="CHINESE" value="270" />
+        <entry key="ENGLISH" value="271" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
