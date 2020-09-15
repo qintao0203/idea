@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contents of collection 'newHashMap' are updated, but never queried" />
       <item value="Inserts the specified element at the specified position in this list * (optional operation). Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
       <item value="音乐节" />
       <item value="Field injection is not recommended" />
@@ -50,12 +51,11 @@
       <item value="Advance the internal clock, executing any tasks whose expiration has been * reached within the duration of the passed timeout." />
       <item value="exclud User Ban Operation" />
       <item value="Throwable" />
-      <item value="if the key exists but has no associated expire." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
