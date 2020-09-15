@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="redundant" />
       <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases:" />
       <item value="Try to advance the clock" />
       <item value="Inserts the specified element into this delay queue." />
@@ -50,12 +51,11 @@
       <item value="the extension names that need to be wrapped." />
       <item value="The annotated class will only work as a wrapper when the condition matches." />
       <item value="If there's third party library referenced by static field or by method in extension implementation, its class will * fail to initialize if the third party library doesn't exist" />
-      <item value="party" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="270" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="CHINESE" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
