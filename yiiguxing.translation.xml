@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="音乐节" />
       <item value="Field injection is not recommended" />
       <item value="erased" />
       <item value="Reason: 'hashMultiByPipeline' has raw type, so result of values is erased" />
@@ -50,11 +51,10 @@
       <item value="Throwable" />
       <item value="if the key exists but has no associated expire." />
       <item value="Find the extension with the given name. If the specified name is not found," />
-      <item value="the extension names that need to be excluded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="274" />
+        <entry key="CHINESE" value="275" />
         <entry key="ENGLISH" value="275" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
