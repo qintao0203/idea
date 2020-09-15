@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field injection is not recommended" />
+      <item value="erased" />
+      <item value="Reason: 'hashMultiByPipeline' has raw type, so result of values is erased" />
       <item value="redundant" />
       <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases:" />
       <item value="Try to advance the clock" />
@@ -48,14 +51,11 @@
       <item value="if the key exists but has no associated expire." />
       <item value="Find the extension with the given name. If the specified name is not found," />
       <item value="the extension names that need to be excluded." />
-      <item value="the extension names that need to be wrapped." />
-      <item value="The annotated class will only work as a wrapper when the condition matches." />
-      <item value="If there's third party library referenced by static field or by method in extension implementation, its class will * fail to initialize if the third party library doesn't exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="271" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="CHINESE" value="274" />
+        <entry key="ENGLISH" value="275" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
