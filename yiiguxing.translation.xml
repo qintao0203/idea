@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Contents of collection 'result' are updated, but never queried" />
       <item value="valid" />
       <item value="the upper bound (exclusive). Must be positive." />
       <item value="Contents of collection 'newHashMap' are updated, but never queried" />
@@ -50,12 +51,11 @@
       <item value="A timing wheel with size n has n buckets and can hold timer tasks in n * u time interval. * Each bucket holds timer tasks that fall into the corresponding time range. At the beginning, * the first bucket holds tasks for [0, u), the second bucket holds tasks for [u, 2u), …, * the n-th bucket for [u * (n -1), u * n). Every interval of time unit u, the timer ticks and * moved to the next bucket then expire all timer tasks in it. So, the timer never insert a task * into the bucket for the current time since it is already expired. The timer immediately runs * the expired task. The emptied bucket is then available for the next round, so if the current * bucket is for the time t, it becomes the bucket for [t + u * n, t + (n + 1) * u) after a tick. * A timing wheel has O(1) cost for insert/delete (start-timer/stop-timer) whereas priority queue * based timers, such as java.util.concurrent.DelayQueue and java.util.Timer, have O(log n) * insert/delete cost." />
       <item value="A simple timing wheel is a circular list of buckets of timer tasks. Let u be the time unit." />
       <item value="Hierarchical Timing Wheels" />
-      <item value="Advance the internal clock, executing any tasks whose expiration has been * reached within the duration of the passed timeout." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
