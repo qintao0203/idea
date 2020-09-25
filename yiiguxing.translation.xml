@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="valid" />
       <item value="the upper bound (exclusive). Must be positive." />
       <item value="Contents of collection 'newHashMap' are updated, but never queried" />
       <item value="Inserts the specified element at the specified position in this list * (optional operation). Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
@@ -50,12 +51,11 @@
       <item value="A simple timing wheel is a circular list of buckets of timer tasks. Let u be the time unit." />
       <item value="Hierarchical Timing Wheels" />
       <item value="Advance the internal clock, executing any tasks whose expiration has been * reached within the duration of the passed timeout." />
-      <item value="exclud User Ban Operation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
-        <entry key="ENGLISH" value="278" />
+        <entry key="CHINESE" value="278" />
+        <entry key="ENGLISH" value="279" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
