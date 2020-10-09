@@ -2,10 +2,15 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-08-14T11:21:28</property>
+    <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-08-14T11:21:51</property>
+    <property name="modified">2020-10-09T10:22:45</property>
     <property name="originalScheme">_@user_Hyrule (rainglow)</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
