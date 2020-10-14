@@ -1,7 +1,9 @@
 <application>
   <component name="GeneralSettings">
+    <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
+    <option name="inactiveTimeout" value="10" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -13,5 +15,6 @@
     <entry key="win.editor.thumb.default.fill.min" value="102" />
     <entry key="win.editor.thumb.default.fill.max" value="150" />
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
 </application>
