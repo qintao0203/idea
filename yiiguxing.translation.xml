@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Detail" />
+      <item value="Predicate" />
       <item value="Decryption error" />
       <item value="中台活动名称查询接口" />
       <item value="Sell" />
@@ -49,13 +51,11 @@
       <item value="Lifecycle" />
       <item value="Registry Directory" />
       <item value="construction" />
-      <item value="integration" />
-      <item value="retry Period" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="HUNGARIAN" value="1" />
