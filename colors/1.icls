@@ -5,7 +5,7 @@
     <property name="description" />
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2020-10-19T16:03:38</property>
+    <property name="modified">2020-10-19T16:14:47</property>
     <property name="originalScheme">_@user_Hyrule (rainglow)</property>
     <property name="vendorMail" />
     <property name="vendorName" />
@@ -21,7 +21,7 @@
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="YaHei Consolas Hybrid" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ce830d" />
