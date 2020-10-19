@@ -1,63 +1,64 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Detail" />
-      <item value="Predicate" />
-      <item value="Decryption error" />
-      <item value="中台活动名称查询接口" />
-      <item value="Sell" />
-      <item value="milliseconds" />
-      <item value="exists" />
-      <item value="verif" />
-      <item value="验证" />
-      <item value="Signature" />
-      <item value="sign" />
-      <item value="opeartor" />
-      <item value="Reward" />
-      <item value="Revenue" />
-      <item value="exclude" />
-      <item value="interruptibly" />
-      <item value="You can't write against a read only slave" />
-      <item value="FEET" />
-      <item value="MILES" />
-      <item value="radius" />
-      <item value="radius in geo units" />
-      <item value="ensure Capacity Internal" />
-      <item value="Return the headers of this message." />
-      <item value="a corresponding HttpHeaders object" />
-      <item value="Fills the input buffer, taking the mark into account if it is valid." />
-      <item value="Atomically increments the current value by one." />
-      <item value="delta" />
-      <item value="coordinates" />
-      <item value="Some Unexisting File" />
-      <item value="we can use some non-existing file name all real saving will be done in CustomerHtmlSavingStrategy" />
-      <item value="bookmark" />
-      <item value="Attachment" />
-      <item value="Render" />
-      <item value="Enterprise" />
-      <item value="Professional" />
-      <item value="Source code recreated from a .class file by IntelliJ IDEA" />
-      <item value="large" />
-      <item value="present" />
-      <item value="Loan" />
-      <item value="Loand" />
-      <item value="square" />
-      <item value="sqrt" />
-      <item value="cbrt" />
-      <item value="ceil" />
-      <item value="rint" />
-      <item value="floor" />
-      <item value="No interface expected here" />
-      <item value="Lifecycle" />
-      <item value="Registry Directory" />
-      <item value="construction" />
+      <item value="Keysize must be a multiple of 64, ranging from 512 to 1024 (inclusive)." />
+      <item value="the encoded key, or null if the key does not support * encoding." />
+      <item value="Returns the key in its primary encoding format, or null * if this key does not support encoding." />
+      <item value="COMPLETED" />
+      <item value="Publish" />
+      <item value="Contents of collection 'result' are updated, but never queried" />
+      <item value="valid" />
+      <item value="the upper bound (exclusive). Must be positive." />
+      <item value="Contents of collection 'newHashMap' are updated, but never queried" />
+      <item value="Inserts the specified element at the specified position in this list * (optional operation). Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
+      <item value="音乐节" />
+      <item value="Field injection is not recommended" />
+      <item value="erased" />
+      <item value="Reason: 'hashMultiByPipeline' has raw type, so result of values is erased" />
+      <item value="redundant" />
+      <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases:" />
+      <item value="Try to advance the clock" />
+      <item value="Inserts the specified element into this delay queue." />
+      <item value="enqueued" />
+      <item value="Put in its own bucket" />
+      <item value="tick" />
+      <item value="The function computing element values" />
+      <item value="The number of elements in the array" />
+      <item value="Returns an array containing values of a given function over a range of integer * values starting from 0." />
+      <item value="interval" />
+      <item value="expiration" />
+      <item value="A mix-in style interface for marking objects that should be * acted upon after a given delay." />
+      <item value="Returns the remaining delay associated with this object, in the * given time unit." />
+      <item value="whether or not any tasks were executed" />
+      <item value="Advance" />
+      <item value="Advance the internal clock" />
+      <item value="// Remove the timer task entry if it is already in any other list // We do this outside of the sync block below to avoid deadlocking. // We may retry until timerTaskEntry.list becomes null." />
+      <item value="// Set the bucket's expiration time // Returns true if the expiration time is changed" />
+      <item value="TimerTaskList forms a doubly linked cyclic list using a dummy root entry root.next points to the head root.prev points to the tail" />
+      <item value="we will remove such an entry first." />
+      <item value="if this timerTask is already held by an existing timer task entry," />
+      <item value="Advances the clock if there is an expired bucket. If there isn't any expired bucket when called, waits up to timeoutMs before giving up." />
+      <item value="Locks used to protect data structures while ticking" />
+      <item value="Shutdown the timer service, leaving pending tasks unexecuted" />
+      <item value="Get the number of tasks pending execution" />
+      <item value="Advance the internal clock, executing any tasks whose expiration has been reached within the duration of the passed timeout." />
+      <item value="Add a new task to this executor. It will be executed after the task's delay (beginning from the time of submission)" />
+      <item value="This class is not thread-safe. There should not be any add calls while advanceClock is executing. It is caller's responsibility to enforce it. Simultaneous add calls are thread-safe." />
+      <item value="The hierarchical timing wheels works especially well when operations are completed before they time out. Even when everything times out, it still has advantageous when there are many items in the timer. Its insert cost (including reinsert) and delete cost are O(m) and O(1), respectively while priority queue based timers takes O(log N) for both insert and delete where N is the number of items in the queue." />
+      <item value="At time = c+3, [c+2,c+2] is newly expired. Level 2 moves to c+3, and [c+5,c+5] and [c+9,c+11] are created. Level 3 stay at c." />
+      <item value="At time = c+2, [c+1,c+1] is newly expired. Level 1 moves to c+2, and [c+4,c+4] is created," />
+      <item value="Note that bucket [c,c+2] in level 2 won't receive any task since that range is already covered in level 1. The same is true for the bucket [c,c+8] in level 3 since its range is covered in level 2. This is a bit wasteful, but simplifies the implementation." />
+      <item value="The bucket expiration is at the time of bucket beginning. So at time = c+1, buckets [c,c], [c,c+2] and [c,c+8] are expired. Level 1's clock moves to c+1, and [c+3,c+3] is created. Level 2 and level3's clock stay at c since their clocks move in unit of 3 and 9, respectively. So, no new buckets are created in level 2 and 3." />
+      <item value="Example Let's say that u is 1 and n is 3. If the start time is c, then the buckets at different levels are:" />
+      <item value="Let's say that u is 1 and n is 3. If the start time is c," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="285" />
+        <entry key="ENGLISH" value="285" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
     </option>

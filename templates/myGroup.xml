@@ -16,7 +16,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="logg" value="private static final Logger logger = LogManager.getLogger(.class);" description="logger" toReformat="false" toShortenFQNames="true">
+  <template name="logg" value="private static final Logger logger = LoggerFactory.getLogger(.class);" description="logger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -26,7 +26,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="publicmess" value="@ResponseBody&#10;@RequestMapping(value = &quot;&quot;,method={RequestMethod.POST, RequestMethod.GET})&#10;public MessageVo&lt;&gt; (){&#10;    try {&#10;        LogUtil.info(logger,&quot;_method_invoke&quot;,String.format(&quot;:%s&quot;,));&#10;        if(Objects.isNull()){&#10;            return new MessageVo(false, .getCode(),.getMsg());&#10;        }&#10;&#10;    }catch (Exception e){&#10;        LogUtil.error(logger,e,&quot;_method_error&quot;, String.format(&quot;:%s&quot;, ));&#10;    }&#10;    return new MessageVo&lt;&gt;(false, .getCode(),.getMsg());&#10;}" description="方法创建messagevo返回" toReformat="false" toShortenFQNames="true">
+  <template name="publicmess" value="@GetMapping(&quot;&quot;)&#10;public MessageVo&lt;&gt; (){&#10;    try {&#10;        LogUtil.info(logger,&quot;_method_invoke,:{0}&quot;, JSON.toJSONString());&#10;        if(Objects.isNull()){&#10;            return new MessageVo&lt;&gt;(false, .getCode(),.getMsg());&#10;        }&#10;&#10;    }catch (Exception e){&#10;        LogUtil.error(logger,e,&quot;_method_error,:{0}&quot;, JSON.toJSONString());&#10;    }&#10;    return new MessageVo&lt;&gt;(false, .getCode(),.getMsg());&#10;}" description="方法创建messagevo返回" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -42,13 +42,21 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="sop" value="System.out.println(&quot;&quot;);" description="输出" toReformat="false" toShortenFQNames="true">
+  <template name="sop" value="System.out.println();" description="输出" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
   <template name="jtest" value="@Test&#10;public void (){&#10;&#10;}" description="单测" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by 秦涛   (qintao@cloud-young.com) 创建&#10;* Copyright (c) Department of Research and Development/Beijing &#10;* All Rights Reserved" description="注释" toReformat="false" toShortenFQNames="true">
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
