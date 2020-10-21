@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATISTICE" />
       <item value="Returns a {@code BigDecimal} whose value is &lt;tt&gt;(this &amp;times; * multiplicand)&lt;/tt&gt;, and whose scale is {@code (this.scale() + * multiplicand.scale())}." />
       <item value="judge" />
       <item value="Replay" />
@@ -50,14 +51,13 @@
       <item value="The hierarchical timing wheels works especially well when operations are completed before they time out. Even when everything times out, it still has advantageous when there are many items in the timer. Its insert cost (including reinsert) and delete cost are O(m) and O(1), respectively while priority queue based timers takes O(log N) for both insert and delete where N is the number of items in the queue." />
       <item value="At time = c+3, [c+2,c+2] is newly expired. Level 2 moves to c+3, and [c+5,c+5] and [c+9,c+11] are created. Level 3 stay at c." />
       <item value="At time = c+2, [c+1,c+1] is newly expired. Level 1 moves to c+2, and [c+4,c+4] is created," />
-      <item value="Note that bucket [c,c+2] in level 2 won't receive any task since that range is already covered in level 1. The same is true for the bucket [c,c+8] in level 3 since its range is covered in level 2. This is a bit wasteful, but simplifies the implementation." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="287" />
+        <entry key="CHINESE" value="288" />
         <entry key="ENGLISH" value="288" />
         <entry key="ARABIC" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
       </map>
