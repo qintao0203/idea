@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a {@code BigDecimal} whose value is &lt;tt&gt;(this &amp;times; * multiplicand)&lt;/tt&gt;, and whose scale is {@code (this.scale() + * multiplicand.scale())}." />
       <item value="judge" />
       <item value="Replay" />
       <item value="Keysize must be a multiple of 64, ranging from 512 to 1024 (inclusive)." />
@@ -50,12 +51,11 @@
       <item value="At time = c+3, [c+2,c+2] is newly expired. Level 2 moves to c+3, and [c+5,c+5] and [c+9,c+11] are created. Level 3 stay at c." />
       <item value="At time = c+2, [c+1,c+1] is newly expired. Level 1 moves to c+2, and [c+4,c+4] is created," />
       <item value="Note that bucket [c,c+2] in level 2 won't receive any task since that range is already covered in level 1. The same is true for the bucket [c,c+8] in level 3 since its range is covered in level 2. This is a bit wasteful, but simplifies the implementation." />
-      <item value="The bucket expiration is at the time of bucket beginning. So at time = c+1, buckets [c,c], [c,c+2] and [c,c+8] are expired. Level 1's clock moves to c+1, and [c+3,c+3] is created. Level 2 and level3's clock stay at c since their clocks move in unit of 3 and 9, respectively. So, no new buckets are created in level 2 and 3." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="286" />
-        <entry key="ENGLISH" value="287" />
+        <entry key="CHINESE" value="287" />
+        <entry key="ENGLISH" value="288" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="SPANISH" value="1" />
