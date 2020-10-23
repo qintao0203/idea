@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'commonInfoObtainComponent' for bean class" />
+      <item value="non-compatible bean definition of same name and class" />
       <item value="content" />
       <item value="STATISTICE" />
       <item value="Returns a {@code BigDecimal} whose value is &lt;tt&gt;(this &amp;times; * multiplicand)&lt;/tt&gt;, and whose scale is {@code (this.scale() + * multiplicand.scale())}." />
@@ -49,13 +51,11 @@
       <item value="Advance the internal clock, executing any tasks whose expiration has been reached within the duration of the passed timeout." />
       <item value="Add a new task to this executor. It will be executed after the task's delay (beginning from the time of submission)" />
       <item value="This class is not thread-safe. There should not be any add calls while advanceClock is executing. It is caller's responsibility to enforce it. Simultaneous add calls are thread-safe." />
-      <item value="The hierarchical timing wheels works especially well when operations are completed before they time out. Even when everything times out, it still has advantageous when there are many items in the timer. Its insert cost (including reinsert) and delete cost are O(m) and O(1), respectively while priority queue based timers takes O(log N) for both insert and delete where N is the number of items in the queue." />
-      <item value="At time = c+3, [c+2,c+2] is newly expired. Level 2 moves to c+3, and [c+5,c+5] and [c+9,c+11] are created. Level 3 stay at c." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="288" />
-        <entry key="ENGLISH" value="289" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SPANISH" value="1" />
