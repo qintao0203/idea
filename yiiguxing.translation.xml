@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="content" />
+      <item value="temperature" />
       <item value="nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'commonInfoObtainComponent' for bean class" />
       <item value="non-compatible bean definition of same name and class" />
-      <item value="content" />
       <item value="STATISTICE" />
       <item value="Returns a {@code BigDecimal} whose value is &lt;tt&gt;(this &amp;times; * multiplicand)&lt;/tt&gt;, and whose scale is {@code (this.scale() + * multiplicand.scale())}." />
       <item value="judge" />
@@ -50,12 +51,11 @@
       <item value="Get the number of tasks pending execution" />
       <item value="Advance the internal clock, executing any tasks whose expiration has been reached within the duration of the passed timeout." />
       <item value="Add a new task to this executor. It will be executed after the task's delay (beginning from the time of submission)" />
-      <item value="This class is not thread-safe. There should not be any add calls while advanceClock is executing. It is caller's responsibility to enforce it. Simultaneous add calls are thread-safe." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SPANISH" value="1" />
