@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Darwin was convinced that the loss of these tastes for pictures or music was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably be injurious to the moral character." />
+      <item value="character" />
+      <item value="moral" />
+      <item value="moral character" />
+      <item value="intellect" />
       <item value="recursive" />
       <item value="relative Path" />
       <item value="Pre-built JDK shared indexes reduce the indexing time and CPU load" />
@@ -46,16 +51,11 @@
       <item value="// Remove the timer task entry if it is already in any other list // We do this outside of the sync block below to avoid deadlocking. // We may retry until timerTaskEntry.list becomes null." />
       <item value="// Set the bucket's expiration time // Returns true if the expiration time is changed" />
       <item value="TimerTaskList forms a doubly linked cyclic list using a dummy root entry root.next points to the head root.prev points to the tail" />
-      <item value="we will remove such an entry first." />
-      <item value="if this timerTask is already held by an existing timer task entry," />
-      <item value="Advances the clock if there is an expired bucket. If there isn't any expired bucket when called, waits up to timeoutMs before giving up." />
-      <item value="Locks used to protect data structures while ticking" />
-      <item value="Shutdown the timer service, leaving pending tasks unexecuted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="ARABIC" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SPANISH" value="1" />
