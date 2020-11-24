@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="aduit" />
       <item value="中华民族传统美德" />
       <item value="worthy" />
       <item value="As families move away from their stable community, their friends of many years, and their extended family relationships, the informal flow of information is cut off, and with it the confidence that information will be available when needed and will be trustworthy and reliable" />
@@ -50,13 +51,13 @@
       <item value="Returns the remaining delay associated with this object, in the * given time unit." />
       <item value="whether or not any tasks were executed" />
       <item value="Advance" />
-      <item value="Advance the internal clock" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="305" />
         <entry key="ENGLISH" value="305" />
         <entry key="ARABIC" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="2" />
         <entry key="SPANISH" value="1" />
         <entry key="HUNGARIAN" value="1" />
