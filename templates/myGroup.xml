@@ -31,18 +31,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="sysout" value="System.out.println(JSON.toJSONString());" description="输出打印" toReformat="false" toShortenFQNames="true">
+  <template name="sysout" value="System.out.println(JSON.toJSONString($END$));" description="输出打印" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="syserr" value="System.err.println(JSON.toJSONString());" description="错误打印" toReformat="false" toShortenFQNames="true" />
+  <template name="syserr" value="System.err.println(JSON.toJSONString($END$));" description="错误打印" toReformat="false" toShortenFQNames="true" />
   <template name="logerr" value="LogUtil.error(logger, e, &quot; error,:{0}&quot;, );" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="sop" value="System.out.println();" description="输出" toReformat="false" toShortenFQNames="true">
+  <template name="sop" value="System.out.println($END$);" description="输出" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -66,6 +66,46 @@
     </context>
   </template>
   <template name="ms" value="MessageVo.success();" description="成功返回" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="jt" value="JSON.toJSONString($END$)" description="JSON.toJSONString()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ono" value="Objects.nonNull($END$)" description="Objects.nonNull()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="on" value="Objects.nonNull($END$)" description="Objects.nonNull" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="oi" value="Objects.isNull($END$)" description="Objects.isNull()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="si" value="StringUtils.isBlank($END$)" description="StringUtils.isBlank" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sin" value="StringUtils.isNotBlank($END$)" description="StringUtils.isNotBlank" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ci" value="CollectionUtils.isEmpty($END$)" description="CollectionUtils.isEmpty" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cin" value="CollectionUtils.isNotEmpty($END$)" description="CollectionUtils.isNotEmpty" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
