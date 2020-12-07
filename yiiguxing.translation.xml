@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="826" />
+    <option name="newTranslationDialogY" value="455" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value=" wave" />
+      <item value=" waves" />
+      <item value="great waves" />
+      <item value="涛" />
       <item value="user Apply Audit" />
       <item value="Online" />
       <item value="incrment" />
@@ -47,14 +55,10 @@
       <item value="Inserts the specified element into this delay queue." />
       <item value="enqueued" />
       <item value="Put in its own bucket" />
-      <item value="tick" />
-      <item value="The function computing element values" />
-      <item value="The number of elements in the array" />
-      <item value="Returns an array containing values of a given function over a range of integer * values starting from 0." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
+        <entry key="CHINESE" value="309" />
         <entry key="ENGLISH" value="309" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
