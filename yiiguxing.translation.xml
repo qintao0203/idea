@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Coin" />
       <item value=" wave" />
       <item value=" waves" />
       <item value="great waves" />
@@ -54,12 +55,11 @@
       <item value="Try to advance the clock" />
       <item value="Inserts the specified element into this delay queue." />
       <item value="enqueued" />
-      <item value="Put in its own bucket" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="309" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
