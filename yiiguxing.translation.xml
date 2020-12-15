@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="note" />
       <item value="detail" />
       <item value="Appointment" />
       <item value="Incoming" />
@@ -54,12 +55,11 @@
       <item value="erased" />
       <item value="Reason: 'hashMultiByPipeline' has raw type, so result of values is erased" />
       <item value="redundant" />
-      <item value="Returns the value of the first argument raised to the power of the * second argument. Special cases:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="313" />
+        <entry key="CHINESE" value="313" />
+        <entry key="ENGLISH" value="314" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1607325732513" />
+    <option name="lastTrimTime" value="1608022809108" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
