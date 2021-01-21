@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The ring buffer is set up to prevent overwriting any entry that is yet to be processed by the slowest event processor." />
+      <item value="Starts the event processors and returns the fully configured ring buffer." />
       <item value="Intermediate location of uploaded files." />
       <item value="Whether to enable support of multipart uploads." />
       <item value="Truncation" />
@@ -53,13 +55,11 @@
       <item value="the upper bound (exclusive). Must be positive." />
       <item value="Contents of collection 'newHashMap' are updated, but never queried" />
       <item value="Inserts the specified element at the specified position in this list * (optional operation). Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
-      <item value="音乐节" />
-      <item value="Field injection is not recommended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
