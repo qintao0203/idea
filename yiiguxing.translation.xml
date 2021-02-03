@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Flips" />
       <item value="record" />
       <item value="Truncation" />
       <item value="note" />
@@ -50,12 +51,11 @@
       <item value="Inserts the specified element at the specified position in this list * (optional operation). Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
       <item value="音乐节" />
       <item value="Field injection is not recommended" />
-      <item value="erased" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
