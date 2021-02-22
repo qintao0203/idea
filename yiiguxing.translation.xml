@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Favourite" />
+      <item value="protection" />
       <item value="The ring buffer is set up to prevent overwriting any entry that is yet to be processed by the slowest event processor." />
       <item value="Starts the event processors and returns the fully configured ring buffer." />
       <item value="Intermediate location of uploaded files." />
@@ -49,17 +51,11 @@
       <item value="Publish" />
       <item value="Contents of collection 'result' are updated, but never queried" />
       <item value="valid" />
-      <item value="the upper bound (exclusive). Must be positive." />
-      <item value="Contents of collection 'newHashMap' are updated, but never queried" />
-      <item value="Inserts the specified element at the specified position in this list * (optional operation). Shifts the element currently at that position * (if any) and any subsequent elements to the right (adds one to their * indices)." />
-      <item value="音乐节" />
-      <item value="Field injection is not recommended" />
-      <item value="erased" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -70,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611114503378" />
+    <option name="lastTrimTime" value="1613965437676" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
