@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Calculates the MD5 digest and returns the value as a 32 character hex string." />
       <item value="Favourite" />
       <item value="protection" />
       <item value="The ring buffer is set up to prevent overwriting any entry that is yet to be processed by the slowest event processor." />
@@ -50,12 +51,11 @@
       <item value="COMPLETED" />
       <item value="Publish" />
       <item value="Contents of collection 'result' are updated, but never queried" />
-      <item value="valid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
