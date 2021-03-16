@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Match query is a query that analyzes the text and constructs a phrase prefix query as the result of the analysis." />
+      <item value="Match query is a query that analyzes the text and constructs a phrase prefix" />
       <item value="power" />
       <item value="MUST be a power of two." />
       <item value="binned" />
@@ -49,13 +51,11 @@
       <item value="moral character" />
       <item value="intellect" />
       <item value="recursive" />
-      <item value="relative Path" />
-      <item value="Pre-built JDK shared indexes reduce the indexing time and CPU load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615445887973" />
+    <option name="lastTrimTime" value="1615889818642" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
