@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is strongly recommended the spliterator report a characteristic of {@code IMMUTABLE} or {@code CONCURRENT}, or be &lt;a href=&quot;..Spliterator.htmlbinding&quot;&gt;late-binding&lt;a&gt;. Otherwise, {@link stream(java.util.function.Supplier, int, boolean)} should be used to reduce the scope of potential interference with the source. See &lt;a href=&quot;package-summary.htmlNonInterference&quot;&gt;Non-Interference&lt;a&gt; for more details." />
+      <item value="The spliterator is only traversed, split, or queried for estimated size after the terminal operation of the stream pipeline commences." />
       <item value="boost" />
       <item value="Match query is a query that analyzes the text and constructs a phrase prefix query as the result of the analysis." />
       <item value="Match query is a query that analyzes the text and constructs a phrase prefix" />
@@ -49,13 +51,11 @@
       <item value="Darwin was convinced that the loss of these tastes for pictures or music was not only a loss of happiness, but might possibly be injurious to the intellect, and more probably be injurious to the moral character." />
       <item value="character" />
       <item value="moral" />
-      <item value="moral character" />
-      <item value="intellect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
