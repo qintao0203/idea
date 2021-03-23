@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Instantiation of utility class 'Singleton'" />
       <item value="Insertion" />
       <item value="Tie-breaking utility for ordering insertions when equal hashCodes and non-comparable. We don't require a total order, just a consistent insertion rule to maintain equivalence across rebalancings. Tie-breaking further than necessary simplifies testing a bit." />
       <item value="parallelism" />
@@ -50,12 +51,11 @@
       <item value="aduit" />
       <item value="中华民族传统美德" />
       <item value="worthy" />
-      <item value="As families move away from their stable community, their friends of many years, and their extended family relationships, the informal flow of information is cut off, and with it the confidence that information will be available when needed and will be trustworthy and reliable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="343" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="CHINESE" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
