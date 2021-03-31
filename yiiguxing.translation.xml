@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="descending" />
+      <item value="ascending" />
+      <item value="Quicksort is used in preference to merge sort." />
       <item value="Instantiation of utility class 'Singleton'" />
       <item value="Insertion" />
       <item value="Tie-breaking utility for ordering insertions when equal hashCodes and non-comparable. We don't require a total order, just a consistent insertion rule to maintain equivalence across rebalancings. Tie-breaking further than necessary simplifies testing a bit." />
@@ -48,14 +51,11 @@
       <item value="Unchecked call to 'zadd(String, double, V)' as a member of raw type 'com.llb.cloudyoung.tool.redis.RedissonTemplete'" />
       <item value="Own" />
       <item value="Aduit" />
-      <item value="aduit" />
-      <item value="中华民族传统美德" />
-      <item value="worthy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="345" />
+        <entry key="CHINESE" value="347" />
+        <entry key="ENGLISH" value="348" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -66,7 +66,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616382245428" />
+    <option name="lastTrimTime" value="1617175644423" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
