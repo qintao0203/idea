@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="If we find key, then we need to swap it with the stale entry to maintain hash table order. The newly stale slot, or any other stale slot encountered above it, can then be sent to expungeStaleEntry to remove or rehash all of the other entries in run." />
       <item value="Graphics Environment" />
       <item value="This class is used to generate native system input events for the purposes of test automation, self-running demos, and other applications where control of the mouse and keyboard is needed. The primary purpose of Robot is to facilitate automated testing of Java platform implementations." />
       <item value="descending" />
@@ -50,7 +51,6 @@
       <item value="user Apply Audit" />
       <item value="Online" />
       <item value="incrment" />
-      <item value="Unchecked call to 'zadd(String, double, V)' as a member of raw type 'com.llb.cloudyoung.tool.redis.RedissonTemplete'" />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,9 +66,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617175644423" />
-  </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+    <option name="lastTrimTime" value="1618306549865" />
   </component>
 </application>
