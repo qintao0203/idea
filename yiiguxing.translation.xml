@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only used for pre 5.3 request where this type is still needed" />
+      <item value="The query is executed against all shards, but only enough information is returned (not the document content). The results are then sorted and ranked, and based on it, only the relevant shards are asked for the actual document content. The return number of hits is exactly as specified in size, since they are the only ones that are fetched. This is very handy when the index has a lot of shards (not replicas, shard id groups)." />
+      <item value="Same as {@link QUERY_THEN_FETCH}, except for an initial scatter phase which goes and computes the distributed term frequencies for more accurate scoring." />
       <item value="DRAFT" />
       <item value="VIDEO" />
       <item value="Returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element. Each mapped stream is {@link java.util.stream.BaseStreamclose() closed} after its contents have been placed into this stream. (If a mapped stream is {@code null} an empty stream is used, instead.)" />
@@ -48,9 +51,6 @@
       <item value="note" />
       <item value="detail" />
       <item value="Appointment" />
-      <item value="Incoming" />
-      <item value="Coin" />
-      <item value=" wave" />
     </histories>
     <option name="languageScores">
       <map>
