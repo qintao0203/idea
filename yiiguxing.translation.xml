@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return a {@link ResolvableType} for the specified instance. The instance does not convey generic information but if it implements {@link ResolvableTypeProvider} a more precise {@link ResolvableType} can be used than the simple one based on the {@link forClass(Class) Class instance}." />
+      <item value="configure Headless Property" />
+      <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task." />
+      <item value="Returns the {@code Class} object associated with the class or interface with the given string name. Invoking this method is equivalent to:" />
       <item value="deduce Main Application Class" />
       <item value="Server Port Info Application Context Initializer" />
       <item value="Delegating Application Context Initializer" />
@@ -47,10 +51,6 @@
       <item value="parallelism" />
       <item value="It is strongly recommended the spliterator report a characteristic of {@code IMMUTABLE} or {@code CONCURRENT}, or be &lt;a href=&quot;..Spliterator.htmlbinding&quot;&gt;late-binding&lt;a&gt;. Otherwise, {@link stream(java.util.function.Supplier, int, boolean)} should be used to reduce the scope of potential interference with the source. See &lt;a href=&quot;package-summary.htmlNonInterference&quot;&gt;Non-Interference&lt;a&gt; for more details." />
       <item value="The spliterator is only traversed, split, or queried for estimated size after the terminal operation of the stream pipeline commences." />
-      <item value="boost" />
-      <item value="Match query is a query that analyzes the text and constructs a phrase prefix query as the result of the analysis." />
-      <item value="Match query is a query that analyzes the text and constructs a phrase prefix" />
-      <item value="power" />
     </histories>
     <option name="languageScores">
       <map>
