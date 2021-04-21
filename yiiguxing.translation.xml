@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deduce Main Application Class" />
+      <item value="Server Port Info Application Context Initializer" />
+      <item value="Delegating Application Context Initializer" />
+      <item value="that will be applied to the Spring" />
+      <item value="JERSEY INDICATOR CLASS" />
+      <item value="deduce From Classpath" />
+      <item value="Static helper that can be used to run a {@link SpringApplication} from the specified sources using default settings and user supplied arguments." />
+      <item value="Configuration properties are also bound to the {@link SpringApplication}. This makes it possible to set {@link SpringApplication} properties dynamically, like additional sources (&quot;spring.main.sources&quot; - a CSV list) the flag to indicate a web environment (&quot;spring.main.web-application-type=none&quot;) or the flag to switch off the banner" />
+      <item value="The location of an XML resource to be loaded by {@link XmlBeanDefinitionReader}, or a groovy script to be loaded by {@link GroovyBeanDefinitionReader}&lt;li&gt; &lt;li&gt;The name of a package to be scanned by {@link ClassPathBeanDefinitionScanner}" />
+      <item value="The fully qualified class name to be loaded by" />
+      <item value="The fully qualified class name to be loaded by {@link AnnotatedBeanDefinitionReader}&lt;" />
+      <item value="{@link SpringApplication}s can read beans from a variety of different sources. It is generally recommended that a single {@code @Configuration} class is used to bootstrap your application, however, you may also set {@link getSources() sources} from:" />
+      <item value="advanced" />
+      <item value="For more advanced configuration a {@link SpringApplication} instance can be created and customized before being run:" />
+      <item value="customized" />
+      <item value="In most circumstances the static {@link run(Class, String[])} method can be called directly from your {@literal main} method to bootstrap your application:" />
+      <item value="directly" />
+      <item value="circumstances" />
+      <item value="Trigger any {@link CommandLineRunner} beans&lt;li&gt;" />
+      <item value="expose" />
+      <item value="to expose command line arguments as Spring properties&lt;li&gt;" />
+      <item value="appropriate" />
+      <item value="By default class will perform the following steps to bootstrap your application:" />
+      <item value="perform" />
+      <item value="bootstrap" />
       <item value="Only used for pre 5.3 request where this type is still needed" />
       <item value="The query is executed against all shards, but only enough information is returned (not the document content). The results are then sorted and ranked, and based on it, only the relevant shards are asked for the actual document content. The return number of hits is exactly as specified in size, since they are the only ones that are fetched. This is very handy when the index has a lot of shards (not replicas, shard id groups)." />
       <item value="Same as {@link QUERY_THEN_FETCH}, except for an initial scatter phase which goes and computes the distributed term frequencies for more accurate scoring." />
@@ -26,31 +51,6 @@
       <item value="Match query is a query that analyzes the text and constructs a phrase prefix query as the result of the analysis." />
       <item value="Match query is a query that analyzes the text and constructs a phrase prefix" />
       <item value="power" />
-      <item value="MUST be a power of two." />
-      <item value="binned" />
-      <item value="bins" />
-      <item value="specified" />
-      <item value="compute" />
-      <item value="Absent" />
-      <item value="Computes key.hashCode() and spreads (XORs) higher bits of hash to lower. Because the table uses power-of-two masking, sets of hashes that vary only in bits above the current mask will always collide. (Among known examples are sets of Float keys holding consecutive whole numbers in small tables.) So we apply a transform that spreads the impact of higher bits downward. There is a tradeoff between speed, utility, and quality of bit-spreading. Because many common sets of hashes are already reasonably distributed (so don't benefit from spreading), and because we use trees to handle large sets of collisions in bins, we just XOR some shifted bits in the cheapest possible way to reduce systematic lossage, as well as to incorporate impact of the highest bits that would otherwise never be used in index calculations because of table bounds." />
-      <item value="If you want code syntax highlighted, use GitHub Flavored Markdown rendered from GitHub's markdown API." />
-      <item value="Calculate how many parts to be divided" />
-      <item value="The Content-MD5 you specified was invalid." />
-      <item value="The callback response body. Caller needs to close it." />
-      <item value="clashes with class of same name" />
-      <item value="the Executor to use, or {@code null} if the default should be used." />
-      <item value="Calculates the MD5 digest and returns the value as a 32 character hex string." />
-      <item value="Favourite" />
-      <item value="protection" />
-      <item value="The ring buffer is set up to prevent overwriting any entry that is yet to be processed by the slowest event processor." />
-      <item value="Starts the event processors and returns the fully configured ring buffer." />
-      <item value="Intermediate location of uploaded files." />
-      <item value="Whether to enable support of multipart uploads." />
-      <item value="record" />
-      <item value="Truncation" />
-      <item value="note" />
-      <item value="detail" />
-      <item value="Appointment" />
     </histories>
     <option name="languageScores">
       <map>
