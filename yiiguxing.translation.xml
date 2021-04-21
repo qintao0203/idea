@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return a shared default application {@code ConversionService} instance, lazily building it once needed." />
+      <item value="Environment" />
+      <item value="Create and configure the environment" />
       <item value="Return a Collection of ApplicationListeners matching the given event type. Non-matching listeners get excluded early." />
       <item value="multicast Event" />
       <item value="Multicast the given application event to appropriate listeners. &lt;p&gt;If the {@code eventType} is {@code null}, a default type is built" />
@@ -48,9 +51,6 @@
       <item value="This class is used to generate native system input events for the purposes of test automation, self-running demos, and other applications where control of the mouse and keyboard is needed. The primary purpose of Robot is to facilitate automated testing of Java platform implementations." />
       <item value="descending" />
       <item value="ascending" />
-      <item value="Quicksort is used in preference to merge sort." />
-      <item value="Instantiation of utility class 'Singleton'" />
-      <item value="Insertion" />
     </histories>
     <option name="languageScores">
       <map>
