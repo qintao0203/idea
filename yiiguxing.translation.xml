@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Variable 'wrapper' initializer 'new ThirdPostWrapper()' is redundant" />
       <item value="Ensure" />
       <item value="Insur" />
       <item value="Insurance" />
@@ -51,7 +52,6 @@
       <item value="DRAFT" />
       <item value="VIDEO" />
       <item value="Returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element. Each mapped stream is {@link java.util.stream.BaseStreamclose() closed} after its contents have been placed into this stream. (If a mapped stream is {@code null} an empty stream is used, instead.)" />
-      <item value="cartesian Product" />
     </histories>
     <option name="languageScores">
       <map>
