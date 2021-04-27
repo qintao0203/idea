@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="calculate Index" />
+      <item value="Coordinates claiming sequences for access to a data structure while tracking dependent {@link Sequence}s" />
       <item value="Implementation notes&lt;b&gt;: This implementation restricts the maximum number of running threads to 32767. Attempts to create pools with greater than the maximum number result in {@code IllegalArgumentException}." />
       <item value="Acquires in shared interruptible mode." />
       <item value="Acquire the shared lock allowing interruption" />
@@ -50,8 +52,6 @@
       <item value="By default class will perform the following steps to bootstrap your application:" />
       <item value="perform" />
       <item value="bootstrap" />
-      <item value="Only used for pre 5.3 request where this type is still needed" />
-      <item value="The query is executed against all shards, but only enough information is returned (not the document content). The results are then sorted and ranked, and based on it, only the relevant shards are asked for the actual document content. The return number of hits is exactly as specified in size, since they are the only ones that are fetched. This is very handy when the index has a lot of shards (not replicas, shard id groups)." />
     </histories>
     <option name="languageScores">
       <map>
