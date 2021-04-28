@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="objects of image files for which thumbnails are to be produced for." />
+      <item value="Indicate to make thumbnails from the specified {@link URL}s." />
       <item value="calculate Index" />
       <item value="Coordinates claiming sequences for access to a data structure while tracking dependent {@link Sequence}s" />
       <item value="Implementation notes&lt;b&gt;: This implementation restricts the maximum number of running threads to 32767. Attempts to create pools with greater than the maximum number result in {@code IllegalArgumentException}." />
@@ -50,8 +52,6 @@
       <item value="to expose command line arguments as Spring properties&lt;li&gt;" />
       <item value="appropriate" />
       <item value="By default class will perform the following steps to bootstrap your application:" />
-      <item value="perform" />
-      <item value="bootstrap" />
     </histories>
     <option name="languageScores">
       <map>
