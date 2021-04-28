@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets the scaling factor of the thumbnail." />
       <item value="objects of image files for which thumbnails are to be produced for." />
       <item value="Indicate to make thumbnails from the specified {@link URL}s." />
       <item value="calculate Index" />
@@ -51,7 +52,6 @@
       <item value="expose" />
       <item value="to expose command line arguments as Spring properties&lt;li&gt;" />
       <item value="appropriate" />
-      <item value="By default class will perform the following steps to bootstrap your application:" />
     </histories>
     <option name="languageScores">
       <map>
