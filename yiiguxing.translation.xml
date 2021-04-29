@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="instead" />
       <item value="Sets the scaling factor of the thumbnail." />
       <item value="objects of image files for which thumbnails are to be produced for." />
       <item value="Indicate to make thumbnails from the specified {@link URL}s." />
@@ -51,7 +52,6 @@
       <item value="Trigger any {@link CommandLineRunner} beans&lt;li&gt;" />
       <item value="expose" />
       <item value="to expose command line arguments as Spring properties&lt;li&gt;" />
-      <item value="appropriate" />
     </histories>
     <option name="languageScores">
       <map>
