@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets the output quality of the compression algorithm used to compress the thumbnail when it is written to an external destination such as a file or output stream." />
+      <item value="Where it is required to distinguish an IO exception from the case that {@code 0L} is returned, or where several attributes of the same file are required at the same time," />
+      <item value="Returns the length of the file denoted by this abstract pathname. The return value is unspecified if this pathname denotes a directory." />
       <item value="instead" />
       <item value="Sets the scaling factor of the thumbnail." />
       <item value="objects of image files for which thumbnails are to be produced for." />
@@ -49,9 +52,6 @@
       <item value="In most circumstances the static {@link run(Class, String[])} method can be called directly from your {@literal main} method to bootstrap your application:" />
       <item value="directly" />
       <item value="circumstances" />
-      <item value="Trigger any {@link CommandLineRunner} beans&lt;li&gt;" />
-      <item value="expose" />
-      <item value="to expose command line arguments as Spring properties&lt;li&gt;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619407167370" />
+    <option name="lastTrimTime" value="1620271361534" />
   </component>
 </application>
