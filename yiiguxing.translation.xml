@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Origin" />
+      <item value="Origin bean whose properties are retrieved" />
       <item value="Sets the output quality of the compression algorithm used to compress the thumbnail when it is written to an external destination such as a file or output stream." />
       <item value="Where it is required to distinguish an IO exception from the case that {@code 0L} is returned, or where several attributes of the same file are required at the same time," />
       <item value="Returns the length of the file denoted by this abstract pathname. The return value is unspecified if this pathname denotes a directory." />
@@ -50,8 +52,6 @@
       <item value="For more advanced configuration a {@link SpringApplication} instance can be created and customized before being run:" />
       <item value="customized" />
       <item value="In most circumstances the static {@link run(Class, String[])} method can be called directly from your {@literal main} method to bootstrap your application:" />
-      <item value="directly" />
-      <item value="circumstances" />
     </histories>
     <option name="languageScores">
       <map>
