@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Should the registered urls be built with server.address or with hostname." />
       <item value="Origin" />
       <item value="Origin bean whose properties are retrieved" />
       <item value="Sets the output quality of the compression algorithm used to compress the thumbnail when it is written to an external destination such as a file or output stream." />
@@ -51,7 +52,6 @@
       <item value="advanced" />
       <item value="For more advanced configuration a {@link SpringApplication} instance can be created and customized before being run:" />
       <item value="customized" />
-      <item value="In most circumstances the static {@link run(Class, String[])} method can be called directly from your {@literal main} method to bootstrap your application:" />
     </histories>
     <option name="languageScores">
       <map>
