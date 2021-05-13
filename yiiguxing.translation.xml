@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="currency" />
       <item value="deduce" />
       <item value="Should the registered urls be built with server.address or with hostname." />
@@ -51,7 +52,6 @@
       <item value="The fully qualified class name to be loaded by" />
       <item value="The fully qualified class name to be loaded by {@link AnnotatedBeanDefinitionReader}&lt;" />
       <item value="{@link SpringApplication}s can read beans from a variety of different sources. It is generally recommended that a single {@code @Configuration} class is used to bootstrap your application, however, you may also set {@link getSources() sources} from:" />
-      <item value="advanced" />
     </histories>
     <option name="languageScores">
       <map>
