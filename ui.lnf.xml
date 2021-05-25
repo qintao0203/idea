@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="12288" />
+    <option name="MAX_LOOKUP_WIDTH2" value="730" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="14" />
