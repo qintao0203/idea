@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Policy No" />
       <item value="Boolean" />
       <item value="statistics Account Rule Day Report" />
       <item value="INTERVAL" />
@@ -51,12 +52,11 @@
       <item value="that will be applied to the Spring" />
       <item value="JERSEY INDICATOR CLASS" />
       <item value="deduce From Classpath" />
-      <item value="Static helper that can be used to run a {@link SpringApplication} from the specified sources using default settings and user supplied arguments." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620804098699" />
+    <option name="lastTrimTime" value="1625367448247" />
   </component>
 </application>
