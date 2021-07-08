@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="优化" />
       <item value="block" />
       <item value="get Policy No" />
       <item value="Boolean" />
@@ -51,11 +52,10 @@
       <item value="Server Port Info Application Context Initializer" />
       <item value="Delegating Application Context Initializer" />
       <item value="that will be applied to the Spring" />
-      <item value="JERSEY INDICATOR CLASS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
+        <entry key="CHINESE" value="352" />
         <entry key="ENGLISH" value="352" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
