@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="policy" />
       <item value="优化" />
       <item value="block" />
       <item value="get Policy No" />
@@ -51,12 +52,11 @@
       <item value="deduce Main Application Class" />
       <item value="Server Port Info Application Context Initializer" />
       <item value="Delegating Application Context Initializer" />
-      <item value="that will be applied to the Spring" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625367448247" />
+    <option name="lastTrimTime" value="1625816373210" />
   </component>
 </application>
