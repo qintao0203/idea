@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A unique identifier for a repository. This is used to match the repository to configuration in the &amp;lt;code&amp;gt;settings.xml&amp;lt;code&amp;gt; file, for example." />
       <item value="policy" />
       <item value="优化" />
       <item value="block" />
@@ -51,12 +52,11 @@
       <item value="Returns the {@code Class} object associated with the class or interface with the given string name. Invoking this method is equivalent to:" />
       <item value="deduce Main Application Class" />
       <item value="Server Port Info Application Context Initializer" />
-      <item value="Delegating Application Context Initializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625816373210" />
+    <option name="lastTrimTime" value="1626429932434" />
   </component>
 </application>
