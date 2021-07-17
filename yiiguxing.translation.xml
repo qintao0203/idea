@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Exiting from &quot;ERROR&quot; dispatch, status 404" />
       <item value="Access denied to: http:192.168.35.135:9081repositorymaven-publiccomuniapisfoundation-aggregation1.0.0foundation-aggregation-1.0.0.pom, ReasonPhrase: Forbidden." />
       <item value="HTTP links are not secure" />
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project foundation-aggregation: Failed to deploy artifacts: Could not transfer artifact com.uniapis:foundation-aggregation:pom:1.0.0-20210716.102846-1 fromto nexus-central" />
@@ -51,12 +52,11 @@
       <item value="Use names and ensure unique to protect against duplicates" />
       <item value="Return a {@link ResolvableType} for the specified instance. The instance does not convey generic information but if it implements {@link ResolvableTypeProvider} a more precise {@link ResolvableType} can be used than the simple one based on the {@link forClass(Class) Class instance}." />
       <item value="configure Headless Property" />
-      <item value="Simple stop watch, allowing for timing of a number of tasks, exposing total running time and running time for each named task." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
