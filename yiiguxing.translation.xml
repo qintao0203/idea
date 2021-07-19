@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.impl.ServiceImpl' clashes with 'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.IService'; attempting to use incompatible return type" />
       <item value="Exiting from &quot;ERROR&quot; dispatch, status 404" />
       <item value="Access denied to: http:192.168.35.135:9081repositorymaven-publiccomuniapisfoundation-aggregation1.0.0foundation-aggregation-1.0.0.pom, ReasonPhrase: Forbidden." />
       <item value="HTTP links are not secure" />
@@ -51,12 +52,11 @@
       <item value="Multicast the given application event to appropriate listeners. &lt;p&gt;If the {@code eventType} is {@code null}, a default type is built" />
       <item value="Use names and ensure unique to protect against duplicates" />
       <item value="Return a {@link ResolvableType} for the specified instance. The instance does not convey generic information but if it implements {@link ResolvableTypeProvider} a more precise {@link ResolvableType} can be used than the simple one based on the {@link forClass(Class) Class instance}." />
-      <item value="configure Headless Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
