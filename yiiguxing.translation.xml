@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Indicates one or more resources containing bean definitions to import." />
       <item value="component" />
       <item value="com.orientechnologies.orient.core.exception.OLowDiskSpaceException: Error occurred while executing a write operation to database 'OSystem' due to limited free space on the disk (513 MB). The database is now working in read-only mode. Please close the database (or stop OrientDB), make room on your hard drive and then reopen the database. The minimal required space is 4096 MB. Required space is now set to 4096MB (you can change it by setting parameter storage.diskCache.diskFreeSpaceLimit) ." />
       <item value="'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.impl.ServiceImpl' clashes with 'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.IService'; attempting to use incompatible return type" />
@@ -51,12 +52,11 @@
       <item value="Create and configure the environment" />
       <item value="Return a Collection of ApplicationListeners matching the given event type. Non-matching listeners get excluded early." />
       <item value="multicast Event" />
-      <item value="Multicast the given application event to appropriate listeners. &lt;p&gt;If the {@code eventType} is {@code null}, a default type is built" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626429932434" />
+    <option name="lastTrimTime" value="1627289136618" />
   </component>
 </application>
