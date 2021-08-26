@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Determine handler for the current request." />
       <item value="borrow" />
       <item value="Producer" />
       <item value="Extentiona" />
@@ -51,12 +52,11 @@
       <item value="calculate Index" />
       <item value="Coordinates claiming sequences for access to a data structure while tracking dependent {@link Sequence}s" />
       <item value="Implementation notes&lt;b&gt;: This implementation restricts the maximum number of running threads to 32767. Attempts to create pools with greater than the maximum number result in {@code IllegalArgumentException}." />
-      <item value="Acquires in shared interruptible mode." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="376" />
+        <entry key="ENGLISH" value="377" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
