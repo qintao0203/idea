@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="grab" />
       <item value="Could not return the resource to the pool" />
       <item value="stat Fans Attention Count" />
       <item value="ACQUIRED" />
@@ -51,12 +52,11 @@
       <item value="Origin bean whose properties are retrieved" />
       <item value="Sets the output quality of the compression algorithm used to compress the thumbnail when it is written to an external destination such as a file or output stream." />
       <item value="Where it is required to distinguish an IO exception from the case that {@code 0L} is returned, or where several attributes of the same file are required at the same time," />
-      <item value="Returns the length of the file denoted by this abstract pathname. The return value is unspecified if this pathname denotes a directory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
