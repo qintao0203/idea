@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DEFAULT LOAD FACTOR" />
       <item value="packaging Excludes" />
       <item value="state" />
       <item value="insensitive" />
@@ -51,12 +52,11 @@
       <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
       <item value="currency" />
       <item value="deduce" />
-      <item value="Should the registered urls be built with server.address or with hostname." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
@@ -68,7 +68,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630980049014" />
+    <option name="lastTrimTime" value="1631598670807" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
