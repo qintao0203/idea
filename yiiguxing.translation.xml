@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclude Class" />
       <item value="lettuce" />
       <item value="leak" />
       <item value="减" />
@@ -54,7 +55,6 @@
       <item value="statistics Account Rule Day Report" />
       <item value="INTERVAL" />
       <item value="If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
-      <item value="If you want an embedded database (H2, HSQL or Derby), please put it on the classpath." />
     </histories>
     <option name="languageScores">
       <map>
