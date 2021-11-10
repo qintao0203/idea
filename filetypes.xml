@@ -9,8 +9,8 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="sad" type="PLAIN_TEXT" />
       <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="sad" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
