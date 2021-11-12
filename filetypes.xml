@@ -12,6 +12,7 @@
       <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="sad" type="PLAIN_TEXT" />
       <mapping pattern="aa" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="tsconfig.spec.json" type="tsconfig" />
