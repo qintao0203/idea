@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="多表" />
       <item value="客户" />
       <item value="Unable to init enough connections amount" />
       <item value="redundant" />
@@ -54,12 +55,11 @@
       <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project foundation-aggregation: Failed to deploy artifacts: Could not transfer artifact com.uniapis:foundation-aggregation:pom:1.0.0-20210716.102846-1 fromto nexus-central" />
       <item value="A unique identifier for a repository. This is used to match the repository to configuration in the &amp;lt;code&amp;gt;settings.xml&amp;lt;code&amp;gt; file, for example." />
       <item value="policy" />
-      <item value="优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="397" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
