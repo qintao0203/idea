@@ -110,4 +110,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="publicreturn" value="@GetMapping(&quot;/&quot;)&#10;public ReturnVo&lt;&gt; (@RequestParam(value = &quot;&quot;,required = false) ){&#10;    if (StringUtils.isBlank()){&#10;        return ReturnUtil.fail(BaseInfoErrorCodeEnum.BaseInfoErro_20000.getCode(),BaseInfoErrorCodeEnum.BaseInfoErro_20000.getMsg());&#10;    }&#10;    return ReturnUtil.successForData();&#10;}" description="创建方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
