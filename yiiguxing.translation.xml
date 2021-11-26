@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="External Message Service" />
       <item value="Raw use of parameterized class 'Collection'" />
       <item value="industry type" />
       <item value="visit remark" />
@@ -54,12 +55,11 @@
       <item value="'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.impl.ServiceImpl' clashes with 'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.IService'; attempting to use incompatible return type" />
       <item value="Exiting from &quot;ERROR&quot; dispatch, status 404" />
       <item value="Access denied to: http:192.168.35.135:9081repositorymaven-publiccomuniapisfoundation-aggregation1.0.0foundation-aggregation-1.0.0.pom, ReasonPhrase: Forbidden." />
-      <item value="HTTP links are not secure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
