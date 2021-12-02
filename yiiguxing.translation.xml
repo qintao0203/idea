@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="exclude" />
       <item value="Ambiguous" />
       <item value="record" />
       <item value="External Message Service" />
@@ -54,7 +55,6 @@
       <item value="Indicates one or more resources containing bean definitions to import." />
       <item value="component" />
       <item value="com.orientechnologies.orient.core.exception.OLowDiskSpaceException: Error occurred while executing a write operation to database 'OSystem' due to limited free space on the disk (513 MB). The database is now working in read-only mode. Please close the database (or stop OrientDB), make room on your hard drive and then reopen the database. The minimal required space is 4096 MB. Required space is now set to 4096MB (you can change it by setting parameter storage.diskCache.diskFreeSpaceLimit) ." />
-      <item value="'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.impl.ServiceImpl' clashes with 'getBaseMapper()' in 'com.baomidou.mybatisplus.extension.service.IService'; attempting to use incompatible return type" />
     </histories>
     <option name="languageScores">
       <map>
