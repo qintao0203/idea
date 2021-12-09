@@ -1,6 +1,6 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
@@ -74,6 +74,12 @@
     <option name="lastTrimTime" value="1638757166594" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200706000514108" />
+      </app-key>
+    </option>
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
