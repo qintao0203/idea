@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Borrow" />
+      <item value="test On Borrow" />
       <item value="date Fold" />
       <item value="rows Expected" />
       <item value="exclude" />
@@ -53,13 +55,11 @@
       <item value="company Id" />
       <item value="Skip" />
       <item value="Indicate the resource location(s) of the properties file to be loaded. &lt;p&gt;Both traditional and XML-based properties file formats are supported &amp;mdash; for example, {@code &quot;classpath:commycoapp.properties&quot;} or {@code &quot;file:pathtofile.xml&quot;}. &lt;p&gt;Resource location wildcards (e.g. &amp;42;.properties) are not permitted; each location must evaluate to exactly one {@code .properties} resource. &lt;p&gt;{...} placeholders will be resolved against anyall property sources already registered with the {@code Environment}. See {@linkplain PropertySource above} for examples. &lt;p&gt;Each location will be added to the enclosing {@code Environment} as its own property source, and in the order declared." />
-      <item value="直播" />
-      <item value="Indicates one or more resources containing bean definitions to import." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
