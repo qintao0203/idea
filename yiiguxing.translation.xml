@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Maven Duplicate Dependencies Inspection" />
       <item value="Boolean" />
       <item value="statistics Account Rule Day Report" />
       <item value="INTERVAL" />
@@ -51,12 +51,11 @@
       <item value="that will be applied to the Spring" />
       <item value="JERSEY INDICATOR CLASS" />
       <item value="deduce From Classpath" />
-      <item value="Static helper that can be used to run a {@link SpringApplication} from the specified sources using default settings and user supplied arguments." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="ARABIC" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="LATIN" value="2" />
@@ -68,5 +67,15 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1620804098699" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200706000514108" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
