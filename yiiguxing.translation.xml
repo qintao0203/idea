@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Team Collection" />
       <item value="导出" />
       <item value="export" />
       <item value="additivity" />
@@ -54,12 +55,11 @@
       <item value="Message Vo" />
       <item value="Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
       <item value="适合" />
-      <item value="REGWECAHTUSER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640571780067" />
+    <option name="lastTrimTime" value="1641808119454" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
