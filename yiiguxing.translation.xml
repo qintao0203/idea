@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Preflight" />
       <item value="Team Collection" />
       <item value="导出" />
       <item value="export" />
@@ -54,7 +55,6 @@
       <item value="Illegalunsupported escape sequence" />
       <item value="Message Vo" />
       <item value="Spring Team recommends: &quot;Always use constructor based dependency injection in your beans. Always use assertions for mandatory dependencies&quot;." />
-      <item value="适合" />
     </histories>
     <option name="languageScores">
       <map>
