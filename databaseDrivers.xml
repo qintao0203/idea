@@ -2,7 +2,7 @@
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="java.sql.Driver" name="User Driver" driver-class="dm.jdbc.driver.DmDriver">
       <library>
-        <url>file://$USER_HOME$/Desktop/jdbc/DmJdbcDriver18.jar</url>
+        <url>file://C:/项目/银保/insure-activity/lib/DmJdbcDriver18.jar</url>
       </library>
     </driver>
   </component>
