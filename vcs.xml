@@ -6,6 +6,10 @@
           <option name="url" value="http://git.bjnfbk.com" />
           <option name="userName" value="tao.qin@newtouch.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="545980776@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
