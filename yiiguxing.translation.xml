@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="constant" />
       <item value="Copy the values of all of the enumerable own properties from one or more source objects to a target object. Returns the target object." />
       <item value="is Preflight" />
       <item value="Team Collection" />
@@ -54,12 +55,11 @@
       <item value="Detection" />
       <item value="TEMPLATEPARAMTER" />
       <item value="Illegalunsupported escape sequence" />
-      <item value="Message Vo" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="408" />
+        <entry key="ENGLISH" value="409" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648535669318" />
+    <option name="lastTrimTime" value="1649641453148" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
