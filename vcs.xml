@@ -1,38 +1,27 @@
 <application>
   <component name="GitRememberedInputs">
     <option name="visitedUrls">
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
       <list>
-        <UrlAndUserName>
-          <option name="url" value="http://git.bjnfbk.com/git/chinalife-p/intermediary/insure-activity.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://git.bjnfbk.com" />
           <option name="userName" value="tao.qin@newtouch.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="545980776@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="G:\新致软件" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="COLUMN_ORDER">
+    <option name="COLUMN_ID_ORDER">
       <list>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.00bang.cn:llb/llb-java/base-space/base-lottery.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.bjnfbk.com/git/chinalife-p/intermediary/insure-activity.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://git@git.bjnfbk.com:31122/chinalife-p/intermediary/insure-activity.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
+        <option value="Default.Root" />
+        <option value="Default.Subject" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
-    <option name="cloneParentDir" value="G:\新致软件" />
   </component>
 </application>

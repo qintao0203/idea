@@ -1,5 +1,5 @@
 <templateSet group="myGroup">
-  <template name="nvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by 秦涛   (qintao@cloud-young.com) 创建" description="注释" toReformat="false" toShortenFQNames="true">
+  <template name="nvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by 秦涛   (tao.qin@newtouch.com) 创建" description="注释" toReformat="false" toShortenFQNames="true">
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -52,7 +52,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="fvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by 秦涛   (qintao@cloud-young.com) 创建&#10;* Copyright (c) Department of Research and Development/Beijing &#10;* All Rights Reserved" description="注释" toReformat="false" toShortenFQNames="true">
+  <template name="fvt" value="Description:  &lt;br/&gt;&#10;* Version V1.0  $date$ $time$  by 秦涛   (tao.qin@newtouch.com) 创建&#10;* Copyright (c) Department of Research and Development/Beijing &#10;* All Rights Reserved" description="注释" toReformat="false" toShortenFQNames="true">
     <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -108,6 +108,11 @@
   <template name="cin" value="CollectionUtils.isNotEmpty($END$)" description="CollectionUtils.isNotEmpty" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="publicreturn" value="@GetMapping(&quot;/&quot;)&#10;public ReturnVo&lt;&gt; (@RequestParam(value = &quot;&quot;,required = false) ){&#10;    if (StringUtils.isBlank()){&#10;        return ReturnUtil.fail(BaseInfoErrorCodeEnum.BaseInfoErro_20000.getCode(),BaseInfoErrorCodeEnum.BaseInfoErro_20000.getMsg());&#10;    }&#10;    return ReturnUtil.successForData();&#10;}" description="创建方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
     </context>
   </template>
 </templateSet>
