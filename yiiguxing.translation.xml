@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Raw use of parameterized class 'ResponseBodyAdvice'" />
       <item value="Possibly blocking call in non-blocking context could lead to thread starvation" />
       <item value="signature denied" />
       <item value="Unsatisfied dependency expressed through field" />
@@ -54,12 +55,11 @@
       <item value="borrow" />
       <item value="Producer" />
       <item value="Extentiona" />
-      <item value="Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
