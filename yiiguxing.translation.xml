@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="455" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No executable code found at line 42 in class com.newtouch.base.web.interceptor.UserCheckAndInjectInterceptor  Suspend: all" />
       <item value="Sorry, Dave, I can't let you do that! Ignoring plugin [class org.apache.logging.log4j.core.pattern.MdcPatternConverter]." />
       <item value="Failed to determine a suitable driver class" />
       <item value="Raw use of parameterized class 'ResponseBodyAdvice'" />
@@ -54,12 +55,11 @@
       <item value="Bundle" />
       <item value="Major" />
       <item value="Determine handler for the current request." />
-      <item value="borrow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="415" />
-        <entry key="ENGLISH" value="416" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="417" />
         <entry key="ARABIC" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="FRENCH" value="1" />
