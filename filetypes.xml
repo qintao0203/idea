@@ -1,41 +1,41 @@
 <application>
-  <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.flattened-pom.xml;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.flattened-pom.xml;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="test" type="AUTO_DETECTED" />
-      <mapping pattern="项目使用文档.md" type="AUTO_DETECTED" />
-      <mapping pattern="a" type="AUTO_DETECTED" />
-      <mapping pattern="asd" type="AUTO_DETECTED" />
-      <mapping pattern="gh_0b03fc2d805f" type="AUTO_DETECTED" />
       <mapping ext="classs" type="CLASS" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping pattern="aaa" type="PLAIN_TEXT" />
       <mapping pattern="sad" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="PLAIN_TEXT" />
       <mapping ext="lic" type="PLAIN_TEXT" />
       <mapping ext="setting" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
-      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
-      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
-      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
-      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
-      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
       <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
+      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
       <mapping ext=".model" type="Tabnine project model file" />
       <mapping ext=".tabnine" type="Tabnine project model file" />
       <mapping ext=".tabnine.model" type="Tabnine project model file" />
       <mapping ext="model" type="Tabnine project model file" />
       <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping pattern="asd" type="AUTO_DETECTED" />
+      <mapping pattern="gh_0b03fc2d805f" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="项目使用文档.md" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
